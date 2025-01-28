@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Letter Processor</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background-color: #D9C8B5; /* Muted Taupe */
+      color: #2D2D2D;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    .hero {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    .hero h1 {
+      font-size: 2.5rem;
+      margin: 0 0 10px;
+      color: #83A95C; /* Soft Olive Green */
+    }
+    .hero p {
+      font-size: 1.2rem;
+      color: #555555;
+    }
+    .content {
+      display: grid;
+      grid-template-columns: 1fr 2fr 1fr;
+      gap: 20px;
+      align-items: center;
+    }
+    .content img {
+      width: 100%;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+    .center {
+      text-align: center;
+      background-color: #FFFFFF;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+    .center p {
+      font-size: 1.1rem;
+      margin-bottom: 20px;
+    }
+    .center input[type="text"] {
+      width: 80%;
+      padding: 10px;
+      margin-bottom: 20px;
+      border: 2px solid #D75950; /* Deep Coral */
+      border-radius: 5px;
+      font-size: 1rem;
+      box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.05);
+    }
+    .center button {
+      padding: 10px 20px;
+      font-size: 1rem;
+      color: #FFFFFF;
+      background-color: #83A95C; /* Soft Olive Green */
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin: 5px;
+      transition: background-color 0.3s ease, transform 0.2s ease;
+    }
+    .center button:hover {
+      background-color: #D75950; /* Deep Coral */
+      transform: translateY(-2px);
+    }
+    .result {
+      margin-top: 20px;
+      text-align: left;
+      font-size: 1rem;
+      color: #2D2D2D;
+    }
+    .result p {
+      margin: 10px 0;
+      line-height: 1.2; /* Reduced line spacing */
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Hero Section -->
+    <div class="hero">
+      <h1>Letter Processor</h1>
+      <p>Enter a string and discover its magic interpretation.</p>
+    </div>
+
+    <!-- Main Content -->
+    <div class="content">
+      <!-- Left Image -->
+      <img src="https://via.placeholder.com/300" alt="Left Image">
+
+      <!-- Center Section -->
+      <div class="center">
+        <p>Enter your text below:</p>
+        <input type="text" id="inputText" placeholder="Enter your string here">
+        <button id="processButton">Process</button>
+        <button id="resetButton">Reset</button>
+        <div class="result" id="result"></div>
+      </div>
+
+      <!-- Right Image -->
+      <img src="https://via.placeholder.com/300" alt="Right Image">
+    </div>
+  </div>
+
+  <script>
+    // Fetch JSON data dynamically
+    let letterData = {};
+    fetch('data.json')
+      .then(response => response.json())
+      .then(data => {
+        letterData = data;
+      })
+      .catch(error => {
+        console.error("Failed to load JSON data:", error);
+      });
+
+    document.addEventListener('DOMContentLoaded', () => {
+      const inputText = document.getElementById('inputText');
+      const processButton = document.getElementById('processButton');
+      const resetButton = document.getElementById('resetButton');
+      const resultDiv = document.getElementById('result');
+
+      processButton.addEventListener('click', () => {
+        const userInput = inputText.value.trim().toLowerCase(); // Get input, trim spaces, and convert to lowercase
+        if (!userInput) {
+          resultDiv.innerHTML = "<p>Please enter a valid string!</p>";
+          return;
+        }
+
+        let output = ""; // To store the generated result
+        let madrigale = ""; // To store the concatenated first lines
+
+        // Iterate through each character in the input string
+        for (const char of userInput) {
+          if (letterData[char]) {
+            // Get a random entry for the current letter
+            const randomEntry = letterData[char][Math.floor(Math.random() * letterData[char].length)];
+            output += `<p>${randomEntry.kitica} - <strong>${randomEntry.name}</strong></p>`;
+            madrigale += `${randomEntry.prva}\n`; // Add newline for each first line
+          }
+        }
+
+        if (!output) {
+          resultDiv.innerHTML = "<p>No matching data found for the entered string.</p>";
+        } else {
+          // Display the generated text and madrigale
+          resultDiv.innerHTML = `
+            <div>${output}</div>
+            <p><strong>Madrigale:</strong></p>
+            <pre style="line-height: 1.0; background: none; border: none;">${madrigale.trim()}</pre>
+          `;
+        }
+      });
+
+      // Reset functionality
+      resetButton.addEventListener('click', () => {
+        inputText.value = "";
+        resultDiv.innerHTML = "";
+      });
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,2177 @@
+{
+    "s": [
+      {
+        "kitica": "Strune! milo se glasite,<br>milo, pesmica! žaluj;<br>sŕca bolečine skrite<br>trdosrčni oznanjuj:",
+        "name": "(STRUNAM)",
+        "prva": "Strune! milo se glasite,"
+      },
+      {
+        "kitica": "Samo to znam, samo to vem,<br>de pred obličje nje ne smem,",
+        "name": "(KAM?)",
+        "prva": "Samo to znam, samo to vem,"
+      },
+      {
+        "kitica": "Sama sodíla si préd me nemilo,<br>sama me zmeram še sodiš ojstró;<br>pravijo vender, de slabo plačilo,<br>kdor me pri tebi zatoži, dobó.",
+        "name": "(SILA SPOMINA)",
+        "prva": "Sama sodíla si préd me nemilo,"
+      },
+      {
+        "kitica": "Se usta smejajo ko préd,<br>sladkost ni manjši z njih besed.",
+        "name": "(ZGUBLJENA VERA)",
+        "prva": "Se usta smejajo ko préd,"
+      },
+      {
+        "kitica": "Srce je moje bilo oltar,<br>préd bogstvo ti, zdaj - lepa stvar.",
+        "name": "(ZGUBLJENA VERA)",
+        "prva": "Srce je moje bilo oltar,"
+      },
+      {
+        "kitica": "Spet so se jadra bele<br>od južnih sap napele,<br>prinesle me nazaj;<br>dekleta mojga ženo<br>sem najdel poročeno -<br>prestal sam Bog ve kaj!",
+        "name": "(MORNAR)",
+        "prva": "Spet so se jadra bele"
+      },
+      {
+        "kitica": "Sej vem, de mora vsak umret,<br>in iti vsak k pokóju,<br>na postlji ali v bóju,<br>potrta starost, mladi cvet. -<br>Pet čevljov merim, palcov pet,<br>veselo čem živeti,<br>junaško - umreti.",
+        "name": "(SOLDAŠKA)",
+        "prva": "Sej vem, de mora vsak umret,"
+      },
+      {
+        "kitica": "So zvezde sestríce,<br>mu mesec je brat;<br>ni dano mu tice<br>si ljubico zbrat.",
+        "name": "(V SPOMIN VALENTINA VODNIKA)",
+        "prva": "So zvezde sestríce,"
+      },
+      {
+        "kitica": "\"Sam se po železni cesti<br>vozil bom od nas do nas;<br>drugo ljubco v vsakem mesti<br>ímel bom za kratek čas.\"",
+        "name": "(OD ŽELEZNE CESTE)",
+        "prva": "\"Sam se po železni cesti"
+      },
+      {
+        "kitica": "\"Smo poštene mé Kranjice,<br>vsak sleparček ni za nas;<br>mé pa hočmo bit ženice,<br>ljubce ne za kratek čas.\"",
+        "name": "(OD ŽELEZNE CESTE)",
+        "prva": "\"Smo poštene mé Kranjice,"
+      },
+      {
+        "kitica": "Stanu<br>se svojega spomni, tŕpi brez miru!",
+        "name": "(PEVCU)",
+        "prva": "Stanu"
+      },
+      {
+        "kitica": "\"Slišim, de so Bosnijaki<br>v sužnost gnali kristijane,<br>res junakam je sramota,<br>de jih še obklada jarem.<br>Meč opaši, Ojstrovrhar!<br>hlapce zberi in tovarše,<br>bášetovo izpeljite<br>sestro, ako kaj veljate.",
+        "name": "(TURJAŠKA ROZAMUNDA)",
+        "prva": "\"Slišim, de so Bosnijaki"
+      },
+      {
+        "kitica": "Stoji morávski trg, Lesce,<br>več lepih deklic v njem cvete,<br>med njimi judovsko dekle.",
+        "name": "(JUDOVSKO DEKLE)",
+        "prva": "Stoji morávski trg, Lesce,"
+      },
+      {
+        "kitica": "Se milo je jokal, je milo zdihvál,<br>grob njeni je vsak dan obiskoval.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Se milo je jokal, je milo zdihvál,"
+      },
+      {
+        "kitica": "Samota, post, učenost, brevir<br>nazaj ti spet dali bodo mir;",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Samota, post, učenost, brevir"
+      },
+      {
+        "kitica": "Se dolgo ugovarjal, branil je,<br>ni ubranil se prošnjam matere.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Se dolgo ugovarjal, branil je,"
+      },
+      {
+        "kitica": "Se pósti, uči se, in moli brevir,<br>nazaj se ne vrne v srce mu mir.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Se pósti, uči se, in moli brevir,"
+      },
+      {
+        "kitica": "\"Se k tretjemu ujcu podéj, moj sin!<br>de srčnih znebiš se bolečin!\"",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "\"Se k tretjemu ujcu podéj, moj sin!"
+      },
+      {
+        "kitica": "Se kralj in cesarica sta<br>že vender omečíla,<br>prepira trudna dolzega<br>med sabo se umiríla;<br>in trum se šum, in vriš, in vrisk,<br>se turški boben sliš in pisk,<br>iz boja vojska cela<br>domú hiti vesela.",
+        "name": "(LENORA)",
+        "prva": "Se kralj in cesarica sta"
+      },
+      {
+        "kitica": "So brž pridrvili se črni oblaki,<br>zasliši na nebu se strašno gromenje,<br>zasliši vetrov se sovražno vršenje,<br>zasliši potokov derečih šumenje,<br>pričjóčim po koncu so vstali lasje -<br>oh, Uršika zala, zdaj tebi gorje!",
+        "name": "(POVODNI MOŽ)",
+        "prva": "So brž pridrvili se črni oblaki,"
+      },
+      {
+        "kitica": "Se kopljejo, smejajo, tak pojó:<br>\"O, srečen ribič, srcé zvestó!<br>kak dolgo še misliš ti gledati v njo?",
+        "name": "(RIBIČ)",
+        "prva": "Se kopljejo, smejajo, tak pojó:"
+      },
+      {
+        "kitica": "Scer oče župan so mož neslan,<br>kaj dela tam kancelir vsak dan?",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Scer oče župan so mož neslan,"
+      },
+      {
+        "kitica": "Spet gosli je godec v róke vzel,<br>na tri je strune gosti začel.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Spet gosli je godec v róke vzel,"
+      },
+      {
+        "kitica": "Sem videl, de svoj čoln po sapi sreče,<br>komur sovražna je, zastonj obrača,<br>kak veter nje nasproti tému vleče,<br>kogar v zibéli vidla je berača,<br>de le petica da ime sloveče,<br>de človek toliko velja, kar plača.<br>Sem videl čislati le to med nami,<br>kar um slepí, z goljfijami, ležámi!",
+        "name": "(SLOVO OD MLADOSTI)",
+        "prva": "Sem videl, de svoj čoln po sapi sreče,"
+      },
+      {
+        "kitica": "Skeleče misli, de Slovenec mile<br>ne ljubi matere, vanj upajoče,<br>de tebe zame vneti ni mogoče,<br>z bridkostjo so srcé mi napolnile.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Skeleče misli, de Slovenec mile"
+      },
+      {
+        "kitica": "Sijálo sonce je podobe zale,<br>pogleda tvojga pil sem žarke mile,<br>ljubezni so cvetlice kal pognale.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Sijálo sonce je podobe zale,"
+      },
+      {
+        "kitica": "Skrbí verige bodo odstopíle,<br>odpadlo bo železje njih okorno,<br>s preblago tvojo pomočjo podporno<br>vse njih se rane bodo zacelíle.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Skrbí verige bodo odstopíle,"
+      }
+    ],
+    "k": [
+      {
+        "kitica": "kak bledí mi moje lice,<br>kak umira luč oči,<br>kak tekó iz njih solzice,<br>ki ljubezen jih rodi;",
+        "name": "(STRUNAM)",
+        "prva": "kak bledí mi moje lice,"
+      },
+      {
+        "kitica": "kak s seboj me vedno vleče,<br>koder hodi, njen obraz,<br>kak obličje nje cveteče<br>v srcu nosim vsaki čas;",
+        "name": "(STRUNAM)",
+        "prva": "kak s seboj me vedno vleče,"
+      },
+      {
+        "kitica": "Kak lepó se rosa bliska,<br>dokler jutra hlad ne mine!<br>Komej sonce bolj pritiska,<br>bo pregnana od vročine.",
+        "name": "(DEKLETAM)",
+        "prva": "Kak lepó se rosa bliska,"
+      },
+      {
+        "kitica": "K oknu pridi,<br>drug ne vidi,<br>ko nebeške zvezdice;<br>se prikaži,<br>al sovraži<br>me srce, povej, al ne?",
+        "name": "(POD OKNAM)",
+        "prva": "K oknu pridi,"
+      },
+      {
+        "kitica": "ko misel jaz, ki spejo<br>v ljubéznjenih sanjah,<br>ki si na dan želejo<br>zleteti v pesmicah.",
+        "name": "(PROŠNJA)",
+        "prva": "ko misel jaz, ki spejo"
+      },
+      {
+        "kitica": "Ko brez miru okrog divjam,<br>prijatlji prašajo me, kam?",
+        "name": "(KAM?)",
+        "prva": "Ko brez miru okrog divjam,"
+      },
+      {
+        "kitica": "kadar mogočni gospodar<br>drvi jih semtertje vihar.",
+        "name": "(KAM?)",
+        "prva": "kadar mogočni gospodar"
+      },
+      {
+        "kitica": "Kaj od mene preč oko,<br>preč obraz obračaš mili?<br>Kdo te mene ljúbit sili?<br>Rajši koj mi daj slovo.",
+        "name": "(K SLOVESU)",
+        "prva": "Kaj od mene preč oko,"
+      },
+      {
+        "kitica": "Komú narpred veselo<br>zdravljico, bratje! čmo zapét!<br>Bog našo nam deželo,<br>Bog živi ves slovenski svet,<br>brate vse,<br>kar nas je<br>sinov sloveče matere!",
+        "name": "(ZDRAVLJICA)",
+        "prva": "Komú narpred veselo"
+      },
+      {
+        "kitica": "Kratko sijale so zvezde prijazne,<br>v sanjah prijetnih te zibal je up;<br>jezo si sreče občutil sovražne,<br>zgodej okusil življenja si strup.",
+        "name": "(V SPOMIN ANDREJA SMOLETA)",
+        "prva": "Kratko sijale so zvezde prijazne,"
+      },
+      {
+        "kitica": "Kaj pa je tebe treba bilo,<br>dete ljubó, dete lepó!<br>meni mladi deklici,<br>neporočeni materi?",
+        "name": "(NEZAKONSKA MATI)",
+        "prva": "Kaj pa je tebe treba bilo,"
+      },
+      {
+        "kitica": "Kaj pa je tebe treba bilo;<br>dete ljubó, dete lepó!<br>Al te je treba bilo, al ne,<br>vender presrčno ljúbim te.",
+        "name": "(NEZAKONSKA MATI)",
+        "prva": "Kaj pa je tebe treba bilo;"
+      },
+      {
+        "kitica": "Kdo zná<br>noč temno razjásnit, ki tare duha!<br>Kdo vé",
+        "name": "(PEVCU)",
+        "prva": "Kdo zná"
+      },
+      {
+        "kitica": "kragulja odgnati, ki kljuje srce<br>od zora do mraka, od mraka do dné!",
+        "name": "(PEVCU)",
+        "prva": "kragulja odgnati, ki kljuje srce"
+      },
+      {
+        "kitica": "Kdo učí<br>izbrisat z spomina nekdanje dni,<br>brezup prihodnjih oduzét spred oči,<br>praznôti ubežáti, ki zdánje morí!",
+        "name": "(PEVCU)",
+        "prva": "Kdo učí"
+      },
+      {
+        "kitica": "Kako<br>bit óčeš poet in ti pretežkó<br>je v prsih nosít al pekel, al nebo!",
+        "name": "(PEVCU)",
+        "prva": "Kako"
+      },
+      {
+        "kitica": "Klel je neki mlad učenec<br>pust na pepelnično jutro,<br>te besede je govoril<br>v jezi svoji tisto uro:",
+        "name": "(UČENEC)",
+        "prva": "Klel je neki mlad učenec"
+      },
+      {
+        "kitica": "Ko premolkne, ga popraša<br>teta Rozamunde zale,<br>de bi jo čez vse pohvalil,<br>reče mu besede take:",
+        "name": "(TURJAŠKA ROZAMUNDA)",
+        "prva": "Ko premolkne, ga popraša"
+      },
+      {
+        "kitica": "Kristjane v cerkev hodijo,<br>po trgi se sprehajajo,<br>po ljubih se ozirajo.",
+        "name": "(JUDOVSKO DEKLE)",
+        "prva": "Kristjane v cerkev hodijo,"
+      },
+      {
+        "kitica": "Ker tempelj njih deleč stoji,<br>za poldan spet doma sedi,<br>popoldan táko govori:",
+        "name": "(JUDOVSKO DEKLE)",
+        "prva": "Ker tempelj njih deleč stoji,"
+      },
+      {
+        "kitica": "Ko v grajski dívnjak je prišla,<br>judovska lepa deklica,<br>mladenča najde kršenga.",
+        "name": "(JUDOVSKO DEKLE)",
+        "prva": "Ko v grajski dívnjak je prišla,"
+      },
+      {
+        "kitica": "Ko préd, vsak dan obiskuje grob njé,<br>tam milo zdihuje, in toči solzé.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Ko préd, vsak dan obiskuje grob njé,"
+      },
+      {
+        "kitica": "K nji mati skrbna prileti:<br>\"Bog vsmíli se!\" zdihuje;<br>\"O káj ti je, o ljuba hči!\" -<br>jo sŕčno objemúje.<br>\"O mati, mati! preč je, preč!<br>Za celi svet ne maram več!<br>Ni milosti pri Bogi,<br>gorje siroti ubogi!\" -",
+        "name": "(LENORA)",
+        "prva": "K nji mati skrbna prileti:"
+      },
+      {
+        "kitica": "\"Kako me nesel boš nocoj<br>sto milj do domačije?<br>Poslušaj, ljubi Vilhelm moj!<br>enajst že ura bije.\" -<br>\"Pot gladko, luno lej svetlo!<br>Mrlič in mi ko blisk letmo,<br>domú še danes zvésto<br>prinesel bom nevesto.\"",
+        "name": "(LENORA)",
+        "prva": "\"Kako me nesel boš nocoj"
+      },
+      {
+        "kitica": "\"Kje je tvoj dom, kje postljica?<br>Kakóvo je oboje?\"<br>\"O, deleč sta in majhena,<br>šest dilj in diljic dvoje!\" -<br>\"Bo prostor zame?\" - \"Ljubca! bo,<br>podpaši, vrzi se srčnó;<br>že postljica postlana,<br>je svatovšina zbrana.\" -",
+        "name": "(LENORA)",
+        "prva": "\"Kje je tvoj dom, kje postljica?"
+      },
+      {
+        "kitica": "Kaj tam grčé, kaj tam zvoné?<br>Kaj vrane frfetajo? -<br>Mrliča djati v grob velé,<br>in bilje godrnjajo.<br>Lej, bliža se pogrebcov trop,<br>o, čuden vidi se pokop!<br>Glasovi so enaki<br>žalvanju pubčov v mlaki.",
+        "name": "(LENORA)",
+        "prva": "Kaj tam grčé, kaj tam zvoné?"
+      },
+      {
+        "kitica": "Kar je pod luno, oh, kako,<br>kako je vse bežalo!<br>Nad njima z zvezdami nebo,<br>kako je tó dirjálo! -<br>\"Te strah ni? - Luno lej svetlo!<br>Mrliči jézdjo jadrno!<br>Ni strah te mrtvih tudi?\"<br>\"Gorje, mrtvih ne budi!\" -",
+        "name": "(LENORA)",
+        "prva": "Kar je pod luno, oh, kako,"
+      },
+      {
+        "kitica": "Kdor urne roké, sol v glavi ima,<br>si v vsaki nesreči pomágat zna.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Kdor urne roké, sol v glavi ima,"
+      },
+      {
+        "kitica": "ko znal je préd gosti na vse štir,<br>in več je zaslužil kot mladi kanclir.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "ko znal je préd gosti na vse štir,"
+      },
+      {
+        "kitica": "Kak streže mu, kak prilizuje se;<br>\"O, godec! nastavlja ti limanice.\"",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Kak streže mu, kak prilizuje se;"
+      },
+      {
+        "kitica": "Ko godec skrivnost pogovora zve,<br>mu lica rudeče obledé.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Ko godec skrivnost pogovora zve,"
+      },
+      {
+        "kitica": "Koliko krátov me po mestu žêne<br>zagledat tebe želja; ne odkrije<br>se meni obraz lepote zaželêne.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Koliko krátov me po mestu žêne"
+      },
+      {
+        "kitica": "kjer se veselje po obrazu zlije,<br>kjer mine jeza nótranjga prepira,<br>kjer petje z polnega srca izvira,<br>zbude se v srcu sladke harmoníje.",
+        "name": "(SONETNI VENEC)",
+        "prva": "kjer se veselje po obrazu zlije,"
+      },
+      {
+        "kitica": "Kjer porošêno od ljubezni čiste,<br>kalí, kar žlahtnega je, žene zale,<br>ko, ki budí dih pomladánski liste,",
+        "name": "(SONETNI VENEC)",
+        "prva": "Kjer porošêno od ljubezni čiste,"
+      },
+      {
+        "kitica": "Kaméne naše, zapuščene božce,<br>samíce so pozábljene žalvale,<br>le tujke so častile Kranjcev množce.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Kaméne naše, zapuščene božce,"
+      },
+      {
+        "kitica": "Kar niso jih zatrle časov sile,<br>kar raste rož na mladem nam Parnasi,<br>izdíhljeji, solzé so jih redile.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Kar niso jih zatrle časov sile,"
+      },
+      {
+        "kitica": "Ko v veži je Orést Diáne mile<br>zadóbil spet bil zdravje duše svoje,<br>tak bi bilé se od ljubezni tvoje<br>vmirile prsi, lica se zjasníle.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Ko v veži je Orést Diáne mile"
+      },
+      {
+        "kitica": "ki jim kropiv krdelo rejo vzelo<br>in kar nežláhtnih zélišč kal tam žene;<br>ali ak v gredice vrta jih zelene<br>kdo presadi, cvetejo koj veselo.",
+        "name": "(SONETNI VENEC)",
+        "prva": "ki jim kropiv krdelo rejo vzelo"
+      }
+    ],
+    "o": [
+      {
+        "kitica": "od željá kako zdihuje,<br>po nji hrepeni srce,<br>kak mu je veselje tuje,<br>kak od sreče nič ne ve;",
+        "name": "(STRUNAM)",
+        "prva": "od željá kako zdihuje,"
+      },
+      {
+        "kitica": "Obraz mili<br>tvoj posili<br>mi je vedno pred očmi;<br>zdihujoče<br>sŕce vroče<br>vedno k tebi hrepeni.",
+        "name": "(POD OKNAM)",
+        "prva": "Obraz mili"
+      },
+      {
+        "kitica": "Obešajo glavíce,<br>ni rožam mar cvetét;<br>molčijo v gójzdi tice,<br>ne ljubi se jim pét.",
+        "name": "(PROŠNJA)",
+        "prva": "Obešajo glavíce,"
+      },
+      {
+        "kitica": "Oblak ne ve, in val ne kam, -<br>kam nese me obup, ne znam.",
+        "name": "(KAM?)",
+        "prva": "Oblak ne ve, in val ne kam, -"
+      },
+      {
+        "kitica": "Od pomóči nje podprt<br>nosil bom življenja pezo,<br>dókler zmaga sreče jezo<br>zadnja ljubca - bela smrt.",
+        "name": "(K SLOVESU)",
+        "prva": "Od pomóči nje podprt"
+      },
+      {
+        "kitica": "Otemnil ni ga časa beg,<br>nič manj ni bel prs tvojih sneg.",
+        "name": "(ZGUBLJENA VERA)",
+        "prva": "Otemnil ni ga časa beg,"
+      },
+      {
+        "kitica": "Očetov dom! tí ná slovo!<br>Kdor ni za bolji rabo,<br>naj varje dom in babo,<br>al v šolah beli si glavó!<br>Junaka vabi boj, ne bo<br>se trudil on a peresam,<br>in ne z drevesam.",
+        "name": "(SOLDAŠKA)",
+        "prva": "Očetov dom! tí ná slovo!"
+      },
+      {
+        "kitica": "Oča so kleli, tepli me,<br>mati nad mano jokáli se;<br>moji se mene sramváli so,<br>tuji za mano kazali so.",
+        "name": "(NEZAKONSKA MATI)",
+        "prva": "Oča so kleli, tepli me,"
+      },
+      {
+        "kitica": "On, ki je sam bil ljubi moj,<br>on, ki je pravi oča tvoj;<br>šel je po svéti, Bóg ve kam;<br>tebe in mene ga je sram!",
+        "name": "(NEZAKONSKA MATI)",
+        "prva": "On, ki je sam bil ljubi moj,"
+      },
+      {
+        "kitica": "On, ki ptíce pod nebam živi,<br>naj ti dá srečne, vesele dni!<br>Al te je treba bilo, al ne,<br>vedno bom srčno ljubila te.",
+        "name": "(NEZAKONSKA MATI)",
+        "prva": "On, ki ptíce pod nebam živi,"
+      },
+      {
+        "kitica": "\"O, predpust! ti čas presneti,<br>de bi več ne príšel v drugo!<br>Ti med materne petice<br>si poslal požrešno kugo,<br>si mošnjico mi rejeno<br>djal popolnama na suho;<br>stari oča se bo praskal,<br>gledala bo mati čudno,<br>malo penezov poslala,<br>dókaj bóta mi naúkov:<br>vender to bi še prenesel,<br>to še ni narveči húdo.",
+        "name": "(UČENEC)",
+        "prva": "\"O, predpust! ti čas presneti,"
+      },
+      {
+        "kitica": "O, predpust! ti čas presneti,<br>de bi več ne príšel v drugo!<br>Sem obesil závolj tebe<br>dókaj časa uk na kljuko;<br>treba prečuváti bóde<br>več noči s prižgano lúčjo,<br>dolgo si glavó beliti,<br>de popravim spet zamudo;<br>vender to bi še prenesel,<br>to še ni narveči húdo.",
+        "name": "(UČENEC)",
+        "prva": "O, predpust! ti čas presneti,"
+      },
+      {
+        "kitica": "O, predpust! ti čas presneti,<br>de bi več ne príšel v drugo!<br>Si omožil dókaj deklic,<br>in med njimi mojo ljubco,<br>mlado deklico nezvesto,<br>lepo Reziko nemškuto,<br>za katero rad bi dal bil<br>kri, življenje, svojo dušo. -<br>De si njo mi ti omožil,<br>oh, to je narveči húdo!\"",
+        "name": "(UČENEC)",
+        "prva": "O, predpust! ti čas presneti,"
+      },
+      {
+        "kitica": "\"Od séje meni slábo je,<br>pustite, ljubi oča! me,<br>de v dívnjak grem sprehajat se.",
+        "name": "(JUDOVSKO DEKLE)",
+        "prva": "\"Od séje meni slábo je,"
+      },
+      {
+        "kitica": "Odtegne bele mu roké,<br>v oči ji stopijo solzé,<br>odreče mu besede té:",
+        "name": "(JUDOVSKO DEKLE)",
+        "prva": "Odtegne bele mu roké,"
+      },
+      {
+        "kitica": "Od mesta do mesta se vozi vesel<br>po svetu, on rad s seboj te bo vzel.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Od mesta do mesta se vozi vesel"
+      },
+      {
+        "kitica": "Opat in menihi, modri možje,<br>gotovo ti bodo ozdrávli srcé.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Opat in menihi, modri možje,"
+      },
+      {
+        "kitica": "Od mesta do mesta s seboj ga je vzel,<br>ga prosil in silil, de bil bi vesel.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Od mesta do mesta s seboj ga je vzel,"
+      },
+      {
+        "kitica": "Okoli mu deleč pokazal je svet,<br>povsod je dosti videl deklet.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Okoli mu deleč pokazal je svet,"
+      },
+      {
+        "kitica": "Opat in menihi, modri možje,<br>nobeden srcá ozdravit ne ve.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Opat in menihi, modri možje,"
+      },
+      {
+        "kitica": "\"O mati, mati! preč je, preč!<br>Zgubljena sem, zgubljena!<br>O smrt, o smrt, ne čakaj več,<br>de sem bila rojena!<br>Ugasni luč mi vekoméj!<br>Me groba noč in strah obdéj!<br>Ni milosti pri Bogi,<br>gorje siroti ubogi!\" -",
+        "name": "(LENORA)",
+        "prva": "\"O mati, mati! preč je, preč!"
+      },
+      {
+        "kitica": "\"O, mati! káj je sveti raj,<br>káj je pekel, o mati!<br>Le z njim, le z njim je sveti raj,<br>pekel brez njega, mati!<br>Ugasni luč mi vekoméj!<br>Me groba noč in strah obdéj!<br>Brez njega sreče zame<br>ni tu, ne únstran jame!\"",
+        "name": "(LENORA)",
+        "prva": "\"O, mati! káj je sveti raj,"
+      },
+      {
+        "kitica": "Obup takó po nji bučí,<br>kri vnema in možgane,<br>na božje sklepe togotí<br>predrzno se neznane:<br>si rani prsi in roké,<br>de sonce zajde za goré,<br>de skoz nebeške vrata<br>zvezd truma pride zlata.",
+        "name": "(LENORA)",
+        "prva": "Obup takó po nji bučí,"
+      },
+      {
+        "kitica": "\"Opolnoči sedlamo mi,<br>sem vstal na češkem sveti,<br>sem pozno vstal, in blizo ni,<br>te hočem s sabo vzeti.\" -<br>\"Brž k meni v hišo, Vilhelm moj!<br>Zló brije zunaj mraz nocoj,<br>bom, ljubi! te objela,<br>na srci te ogrela.\" -",
+        "name": "(LENORA)",
+        "prva": "\"Opolnoči sedlamo mi,"
+      },
+      {
+        "kitica": "Od nékdej lepé so Ljubljanke slovele,<br>al lepši od Urške bilo ni nobene,<br>nobene očem bilo bolj zaželene<br>ob času nje cvetja dekleta ne žene.<br>Ko nárbolj iz zvezd je danica svetla,<br>narlepši iz deklic je Urška bila.",
+        "name": "(POVODNI MOŽ)",
+        "prva": "Od nékdej lepé so Ljubljanke slovele,"
+      },
+      {
+        "kitica": "O, res je, de bi tako ne bilo!<br>vse res, kar dekleta morske pojó;<br>obup mu zaliva srce zvestó.",
+        "name": "(RIBIČ)",
+        "prva": "O, res je, de bi tako ne bilo!"
+      },
+      {
+        "kitica": "Od čistega godec je ognja vnet<br>za Micko bogato, rožo deklet.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Od čistega godec je ognja vnet"
+      },
+      {
+        "kitica": "Obljubi Micka godčova bit;<br>al samka ostati, se ne možit.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Obljubi Micka godčova bit;"
+      },
+      {
+        "kitica": "Od konca mesto hód obiskvat;<br>povabi ga deklic oče al brat.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Od konca mesto hód obiskvat;"
+      },
+      {
+        "kitica": "\"O, godec! kak dolgo boš še žaloval,<br>kak dolgo se pred ljudmi sramoval?",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "\"O, godec! kak dolgo boš še žaloval,"
+      },
+      {
+        "kitica": "\"O, deklica! rosna rožica!<br>kogá te tak žali, božica?\"",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "\"O, deklica! rosna rožica!"
+      },
+      {
+        "kitica": "\"Oh, v hiši moj oča leži bolan,<br>in nimam mu dati, ko sok neslan.\"",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "\"Oh, v hiši moj oča leži bolan,"
+      },
+      {
+        "kitica": "Obljubi mu vedno zvesta bit;<br>in on se pred pustam z njo poročit.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Obljubi mu vedno zvesta bit;"
+      },
+      {
+        "kitica": "on, ko Paganín je navadil se,<br>de godel na eno struno je.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "on, ko Paganín je navadil se,"
+      },
+      {
+        "kitica": "Okusil zgodej sem tvoj sad, spoznanje!<br>Veselja dókaj strup njegov je umoril:<br>sem zvedel, de vest čisto, dobro djanje<br>svet zaničvati se je zagovoril,<br>ljubezen zvésto najti, kratke sanje!<br>zbežale ste, ko se je dan zazóril.<br>Modrost, pravičnost, učenost, device<br>brez dot žalváti videl sem samice.",
+        "name": "(SLOVO OD MLADOSTI)",
+        "prva": "Okusil zgodej sem tvoj sad, spoznanje!"
+      },
+      {
+        "kitica": "od tamkaj niso pesmi tvoje hvale,<br>pomladi srečne, blagodarne tiste<br>cel čas so blagih sápic pogrešvále.",
+        "name": "(SONETNI VENEC)",
+        "prva": "od tamkaj niso pesmi tvoje hvale,"
+      },
+      {
+        "kitica": "Obdajale so utrjene jih skale,<br>ko nekdaj Orfejovih strun glasóve,<br>ki so jim ljudstva Tracije surove<br>krog Hema, Ródope bile se vdale.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Obdajale so utrjene jih skale,"
+      },
+      {
+        "kitica": "Oblóžile očetov razprtije<br>s Pipínovim so jarmom sužno ramo<br>od tod samó krvavi punt poznamo,<br>boj Vitovca in ropanje Turčíje.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Oblóžile očetov razprtije"
+      },
+      {
+        "kitica": "Od tod ni več srcé biló veselo;<br>kakó bilé bi poezije jasne!<br>Lej, torej je bledó njih cvetje velo!",
+        "name": "(SONETNI VENEC)",
+        "prva": "Od tod ni več srcé biló veselo;"
+      },
+      {
+        "kitica": "O, vem, da niso vredne take sreče,<br>od straha, da nadležne poezije<br>bi ne bilé ti, mi srce trepeče.",
+        "name": "(SONETNI VENEC)",
+        "prva": "O, vem, da niso vredne take sreče,"
+      },
+      {
+        "kitica": "O Vrba! srečna, draga vas domača,<br>kjer hiša mojega stoji očeta;<br>de b uka žeja me iz tvojga svéta<br>speljala ne bila, goljfiva kača!",
+        "name": "(O VRBA, SREČNA, DRAGA VAS DOMAČA)",
+        "prva": "O Vrba! srečna, draga vas domača,"
+      }
+    ],
+    "i": [
+      {
+        "kitica": "in kak vé, ki bi nje hvalo<br>rade pele zanapréj,<br>ak se ne usmili kmalo,<br>mórte utíhnit vekoméj!",
+        "name": "(STRUNAM)",
+        "prva": "in kak vé, ki bi nje hvalo"
+      },
+      {
+        "kitica": "in de ni mesta vrh zemljé,<br>kjer bi pozabil to gorje!",
+        "name": "(KAM?)",
+        "prva": "in de ni mesta vrh zemljé,"
+      },
+      {
+        "kitica": "in miro nabira<br>neutruden vse dni,<br>se ubada, se upira,<br>za smrt le skrbi.",
+        "name": "(V SPOMIN VALENTINA VODNIKA)",
+        "prva": "in miro nabira"
+      },
+      {
+        "kitica": "In šla je žalostna domú,<br>tožíla milemu Bogú,<br>de ni nje vere, nje rodú.",
+        "name": "(JUDOVSKO DEKLE)",
+        "prva": "In šla je žalostna domú,"
+      },
+      {
+        "kitica": "In kadar preteče let in dan,<br>spet k materi pride bolj bolan.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "In kadar preteče let in dan,"
+      },
+      {
+        "kitica": "In kadar preteče let in dan,<br>spet k materi pride bolj bolan.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "In kadar preteče let in dan,"
+      },
+      {
+        "kitica": "In préd, ko preteče let in dan,<br>do matere pride list poslan.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "In préd, ko preteče let in dan,"
+      },
+      {
+        "kitica": "In nad železne vrata tí<br>jo skokama drvijo;<br>švrk! s tanko šibo jih vsmodí,<br>zapahi odletijo,<br>in strášno duri zakrčé,<br>po črnih grobih v skok leté,<br>čez kamne peketajo,<br>od lune tí migljajo.",
+        "name": "(LENORA)",
+        "prva": "In nad železne vrata tí"
+      },
+      {
+        "kitica": "In kar mu obetate očesa njé,<br>potrdijo kmalo besede sladké.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "In kar mu obetate očesa njé,"
+      },
+      {
+        "kitica": "In dolgo ni zastonj zdihoval,<br>je kmalo objemal jo in kušovál.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "In dolgo ni zastonj zdihoval,"
+      },
+      {
+        "kitica": "In bil je spet v gradu god gospe,<br>tam slišat slovečga godca želé.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "In bil je spet v gradu god gospe,"
+      },
+      {
+        "kitica": "In v gradu je lepa hišna bila,<br>priljudna, al zvita tičica.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "In v gradu je lepa hišna bila,"
+      },
+      {
+        "kitica": "Iz ust gospodičen svojih zna,<br>kak treba se trúdit je za moža.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Iz ust gospodičen svojih zna,"
+      },
+      {
+        "kitica": "In preden se vnamejo zvezde nočí,<br>že godec za lepo hišno gorí.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "In preden se vnamejo zvezde nočí,"
+      },
+      {
+        "kitica": "In gre ga ískat, klicat strežaj,<br>in drugi za njim, ker ni ga nazaj.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "In gre ga ískat, klicat strežaj,"
+      },
+      {
+        "kitica": "In pravili so si tam na uho,<br>kje, de so ga najdli in kako.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "In pravili so si tam na uho,"
+      },
+      {
+        "kitica": "In pel je takó od žen in deklet,<br>de nič nobeni ne sme se verjet.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "In pel je takó od žen in deklet,"
+      },
+      {
+        "kitica": "Iz njega izvira, vanjga se spet zlije<br>po vrsti pesem vsacega soneta;<br>prihodnja v prednje koncu je začeta;<br>enak je pevec vencu poezije:",
+        "name": "(SONETNI VENEC)",
+        "prva": "Iz njega izvira, vanjga se spet zlije"
+      },
+      {
+        "kitica": "Iz srca svoje so kalí pognale,<br>ki bolečin molčati dalj ne more;<br>enak sem pevcu, ki je Leonóre<br>pel Estijánke imenitne hvale.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Iz srca svoje so kalí pognale,"
+      },
+      {
+        "kitica": "Iz krajev niso, ki v njih sonce sije,<br>kjer tvoje milo se okó ozira,<br>kjer vsa v pogledu tvojem skrb umira,<br>vseh bolečin se pozabljívost pije;",
+        "name": "(SONETNI VENEC)",
+        "prva": "Iz krajev niso, ki v njih sonce sije,"
+      },
+      {
+        "kitica": "Izdíhljeji, solzé so jih redile<br>s Parnasa mojga rožice pričjoče:<br>solzé z ljubezni so do tebe vroče,<br>iz domovinske so ljubezni lile.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Izdíhljeji, solzé so jih redile"
+      },
+      {
+        "kitica": "In gnale bodo nov cvet bolj veselo,<br>ko rože, kadar mine zima huda<br>in spet pomlad razklada svoja čuda,<br>razsipa po drevesih cvetje belo.",
+        "name": "(SONETNI VENEC)",
+        "prva": "In gnale bodo nov cvet bolj veselo,"
+      },
+      {
+        "kitica": "In toplo sonce vabi ven čebelo,<br>pastir rumene zarje ne zamúda,<br>v grmovju slavček poje spet brez truda,<br>veselje preleti naturo celo.",
+        "name": "(SONETNI VENEC)",
+        "prva": "In toplo sonce vabi ven čebelo,"
+      }
+    ],
+    "t": [
+      {
+        "kitica": "Té in take vé nosíte<br>tožbe, strune! tje do nje;<br>ako mórte, omečíte<br>neusmiljeno srcé.",
+        "name": "(STRUNAM)",
+        "prva": "Té in take vé nosíte"
+      },
+      {
+        "kitica": "Ti si kriva,<br>ljubezniva<br>deklica neusmiljena!<br>Ti me raniš,<br>ti mi braniš,<br>de ne morem spat doma.",
+        "name": "(POD OKNAM)",
+        "prva": "Ti si kriva,"
+      },
+      {
+        "kitica": "Trdna med nama vzdiguje se stena<br>z brezna globôcga do strmih nebes;<br>vender ne vdrža želj skrivnih plamena,<br>de bi ne mogel on švigniti čez.",
+        "name": "(SILA SPOMINA)",
+        "prva": "Trdna med nama vzdiguje se stena"
+      },
+      {
+        "kitica": "Tak pevec se trudi,<br>samoten živi,<br>se v slavi, ko zgrudi<br>ga smrt, prerodi.",
+        "name": "(V SPOMIN VALENTINA VODNIKA)",
+        "prva": "Tak pevec se trudi,"
+      },
+      {
+        "kitica": "Težka človeku ni zemlje odeja,<br>vzamejo v sebe ga njene moči;<br>trčimo, bratje! še vince se smeja,<br>dolgo Smoletov spomin naj živi!",
+        "name": "(V SPOMIN ANDREJA SMOLETA)",
+        "prva": "Težka človeku ni zemlje odeja,"
+      },
+      {
+        "kitica": "\"Tebe sla pa h krotkim ticam<br>vleče, buzakljunski kos!<br>Veter dal boš dvajseticam,<br>pricapljal nazaj boš bos.\"",
+        "name": "(OD ŽELEZNE CESTE)",
+        "prva": "\"Tebe sla pa h krotkim ticam"
+      },
+      {
+        "kitica": "\"Torej bodi meni zvesta,<br>sej te ljubim le samó;<br>kje je še železna cesta,<br>koj mi v zakon daj rokó.\"",
+        "name": "(OD ŽELEZNE CESTE)",
+        "prva": "\"Torej bodi meni zvesta,"
+      },
+      {
+        "kitica": "\"Tebi jaz ne bom nezvesta,<br>ljubček! ti si tiček zrel:<br>ko železna pride cesta,<br>varij, de ne boš mi ušel!\"",
+        "name": "(OD ŽELEZNE CESTE)",
+        "prva": "\"Tebi jaz ne bom nezvesta,"
+      },
+      {
+        "kitica": "To je zvedel oča stari,<br>stari oča, sivi mož,<br>kregal svojo lepo hčerko,<br>in svaril jo je rekoč:<br>\"Ako boš pri okni stala,<br>kadar mimo hodil bo,<br>ak ponoči govorila,<br>ino z njim vasvala boš,<br>hišo bodem ti ogradil,<br>zidal zid bom krog in krog,<br>spustil bom okoli hiše<br>Sultana, de lajal bo,<br>stari hišni bom ukazal,<br>de bo spavala s teboj.\"",
+        "name": "(HČERE SVET)",
+        "prva": "To je zvedel oča stari,"
+      },
+      {
+        "kitica": "Tje h gospôdi se približa<br>pevec razglašene slave;<br>próšen strune ubere, poje<br>dela vitezov junaške,<br>in deklet oči nebeške,<br>sŕca od njih ognja vžgane.",
+        "name": "(TURJAŠKA ROZAMUNDA)",
+        "prva": "Tje h gospôdi se približa"
+      },
+      {
+        "kitica": "\"Tí povej nam, ki obhodiš<br>bližnje ino daljne kraje,<br>kje bi neki dekle raslo<br>lepši od neveste naše?\"",
+        "name": "(TURJAŠKA ROZAMUNDA)",
+        "prva": "\"Tí povej nam, ki obhodiš"
+      },
+      {
+        "kitica": "Tam lepe rožice cvetó,<br>vesele tičice pojó,<br>se plašne srnice pasó.\"",
+        "name": "(JUDOVSKO DEKLE)",
+        "prva": "Tam lepe rožice cvetó,"
+      },
+      {
+        "kitica": "\"Tŕpi, če poka ti srcé!<br>Prah z Bogam kregat se ne sme!<br>Odšla si trupla sili,<br>Bog duše se usmili!\"",
+        "name": "(LENORA)",
+        "prva": "\"Tŕpi, če poka ti srcé!"
+      },
+      {
+        "kitica": "To videt, mladenič se Urški približa:<br>\"Al hôtla bi z mano plesati?\" ji pravi,<br>\"kjer Donava bistri pridruži se Savi,<br>od tvoje lepote zaslišal sem davi,<br>že, Uršika zala! pred tabo sem zdaj,<br>že, Uršika zala! pripravljen na raj!\"",
+        "name": "(POVODNI MOŽ)",
+        "prva": "To videt, mladenič se Urški približa:"
+      },
+      {
+        "kitica": "To reče in se ji globoko prikloni,<br>sladkó mu nasmeja se Uršika zala:<br>\"Nobene stopinjice še nisem plesala,<br>de čákala tebe sem, res je, ni šala -<br>zatorej le hitro mi roko podaj,<br>lej, sonce zahaja, jenjuje že raj!\" -",
+        "name": "(POVODNI MOŽ)",
+        "prva": "To reče in se ji globoko prikloni,"
+      },
+      {
+        "kitica": "To videti, drugi so vsi ostrmeli,<br>od čudeža godcam roké so zastale;<br>ker niso trobente glasova več dale,<br>mladenča nogé so trdó zaceptale;<br>\"Ne maram,\" zavpije, \"za gosli, za bas,<br>strun drugih, ko plešem, zapoje naj glas!\"",
+        "name": "(POVODNI MOŽ)",
+        "prva": "To videti, drugi so vsi ostrmeli,"
+      },
+      {
+        "kitica": "To reče, hitreje sta se zasukála,<br>in dalje in dalje od pôda spustila,<br>na bregu Ljubljance se trikrat zavila,<br>plesáje v valove šumeče planila.<br>Vrtinec so vidli čolnarji dereč;<br>al Uršike videl nobeden ni več.",
+        "name": "(POVODNI MOŽ)",
+        "prva": "To reče, hitreje sta se zasukála,"
+      },
+      {
+        "kitica": "\"To pevčovo srce je,\" star mož tam govori,<br>\"ak bi bilo svetnika, bi mir mu dala kri;<br>svetost ne, pesmi večne mu branijo trohnet,<br>ki jih zaprte v prsih je nosil dókaj let.",
+        "name": "(NEIZTROHNJENO SRCE)",
+        "prva": "\"To pevčovo srce je,\" star mož tam govori,"
+      },
+      {
+        "kitica": "Tako ga prijatlji tolažijo,<br>dokler mu obraz razjásnijo.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Tako ga prijatlji tolažijo,"
+      },
+      {
+        "kitica": "Ta čas je končal bil vojsko mir,<br>spušen na odlog je bil mušketir.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Ta čas je končal bil vojsko mir,"
+      },
+      {
+        "kitica": "Tako ga prijatlji tolažijo,<br>dokler mu obraz razjásnijo.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Tako ga prijatlji tolažijo,"
+      },
+      {
+        "kitica": "Tud ona obljubi le zanjga goret,<br>in godec presrečni obljubi jo vzet.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Tud ona obljubi le zanjga goret,"
+      },
+      {
+        "kitica": "Tri leta so preč, zdravnik je čas,<br>razjásnil se spet je godca obraz;",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Tri leta so preč, zdravnik je čas,"
+      },
+      {
+        "kitica": "Te videt, grji videti napake,<br>je srcu rane vsekalo krvave;<br>mladosti jasnost vender misli take<br>si kmalo iz srca spodi in glave,<br>gradove svítle zida si v oblake,<br>zelene trate stavi si v pušave,<br>povsod vesele lučice prižiga<br>ji up goljfivi, k njim iz stisk ji miga.",
+        "name": "(SLOVO OD MLADOSTI)",
+        "prva": "Te videt, grji videti napake,"
+      },
+      {
+        "kitica": "Ti si življenja mojga magistrále,<br>glasil se z njega, ko ne bo več mene,<br>ran mojih bo spomin in tvoje hvale.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Ti si življenja mojga magistrále,"
+      },
+      {
+        "kitica": "Tak blizu mojiga bi srcá kraljice,<br>bi blizu tebe, sonca njih, dobile<br>moč kvišku rasti poezij cvetlice;",
+        "name": "(SONETNI VENEC)",
+        "prva": "Tak blizu mojiga bi srcá kraljice,"
+      }
+    ],
+    "p": [
+      {
+        "kitica": "Padala nebeška mana<br>Izraelcam je v pušavi;<br>zginila je, ak pobrana<br>ni bila ob uri pravi.",
+        "name": "(DEKLETAM)",
+        "prva": "Padala nebeška mana"
+      },
+      {
+        "kitica": "Po drugih se oziraj,<br>ne morem ti branít;<br>še men oči odpiraj,<br>mi gledat daj njih svit!",
+        "name": "(PROŠNJA)",
+        "prva": "Po drugih se oziraj,"
+      },
+      {
+        "kitica": "Prašájte raj oblak nebá,<br>prašájte raji val morjá,",
+        "name": "(KAM?)",
+        "prva": "Prašájte raj oblak nebá,"
+      },
+      {
+        "kitica": "Pri Bogi sem obljubil,<br>de préd bom dušo zgubil,<br>ko nehal te ljubít,<br>si z desno v desno segla,<br>pri Bogi si prisegla,<br>mi vedno zvesta bit.",
+        "name": "(MORNAR)",
+        "prva": "Pri Bogi sem obljubil,"
+      },
+      {
+        "kitica": "Po morji barka plava,<br>nezvesta, bodi zdrava,<br>sto tebi sreč želim!<br>Po zemlji srečno hôdi;<br>moj up je šel po vodi,<br>le jadrajmo za njim!",
+        "name": "(MORNAR)",
+        "prva": "Po morji barka plava,"
+      },
+      {
+        "kitica": "Pet čevljov merim, palcov pet;<br>adijo, ljubca, starši,<br>in zbogom ví, tovarši!<br>Dopolnil sem devetnajst let,<br>pet čevljov merim, palcov pet,<br>in čvrste sem postave<br>od nog do glave.",
+        "name": "(SOLDAŠKA)",
+        "prva": "Pet čevljov merim, palcov pet;"
+      },
+      {
+        "kitica": "Prijatlji! odrodile<br>so trte vince nam sladkó,<br>ki nam oživlja žile,<br>srce razjásni in oko,<br>ki utopi<br>vse skrbi,<br>v potrtih prsih up budi!",
+        "name": "(ZDRAVLJICA)",
+        "prva": "Prijatlji! odrodile"
+      },
+      {
+        "kitica": "\"Po nji peljal te ženico<br>bom na Dunaj, v Gradec, v Trst,<br>zvesto kazat jim Kranjico,<br>ak ne bo na poti - krst.\"",
+        "name": "(OD ŽELEZNE CESTE)",
+        "prva": "\"Po nji peljal te ženico"
+      },
+      {
+        "kitica": "Prišel je spet sabotni dan,<br>ki ne spoštuje ga kristjan,<br>od vernih Judov praznovan.",
+        "name": "(JUDOVSKO DEKLE)",
+        "prva": "Prišel je spet sabotni dan,"
+      },
+      {
+        "kitica": "Podaj se k njemu, preglédej svet,<br>po svetu boš dókaj videl deklet.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Podaj se k njemu, preglédej svet,"
+      },
+      {
+        "kitica": "préd, ko de preteče let in dan,<br>na vojaki se znébil boš srčnih ran.\"",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "préd, ko de preteče let in dan,"
+      },
+      {
+        "kitica": "Prijazno kupec mu rôko poda,<br>ne zdi se mu škoda zlatá, ne srebrá",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Prijazno kupec mu rôko poda,"
+      },
+      {
+        "kitica": "Poda se v klošter, kjer materni brat,<br>je ujec njegovi učen opat.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Poda se v klošter, kjer materni brat,"
+      },
+      {
+        "kitica": "Povsod, kjer le nesó nogé,<br>po vsaki stezi, póti<br>mladí, starí iz hiš hité.<br>ukánju trum naproti.<br>Boga sin, mati hvalita,<br>nevesta sprímlja ljubega;<br>nihče Lenore same<br>ne kliče, ne objame.",
+        "name": "(LENORA)",
+        "prva": "Povsod, kjer le nesó nogé,"
+      },
+      {
+        "kitica": "\"Pomagaj Bog! otroka tí<br>ubozega ne sodi!<br>Ne ve, kaj jezik govori,<br>nje greham mili bodi!<br>Slovo svetá bridkosti daj,<br>in spomni se na sveti raj,<br>kjer duša Bógu zvesta<br>bo Jezusa nevesta.\" -",
+        "name": "(LENORA)",
+        "prva": "\"Pomagaj Bog! otroka tí"
+      },
+      {
+        "kitica": "Po vasi gôri pok, pok, pok<br>je od podkvá bobnelo;<br>zrožljal je s konja mož visok<br>na klóp pred hišo belo.<br>Poslušaj! iz nadvratnih lin<br>zvonček zapoje: cín, cin, cín;<br>Lenora dobro v hiši<br>le-te besede sliši:",
+        "name": "(LENORA)",
+        "prva": "Po vasi gôri pok, pok, pok"
+      },
+      {
+        "kitica": "\"Po polnoči pokop naj bo,<br>in petje, žalovanje;<br>nevesto peljem zdéj s sabó,<br>z menoj na ženitvanje!<br>Zakroži, mežnar! pesem tí,<br>roké brž nama, pop! poví,<br>de zakon naju zveže,<br>potem se z mano vleže!\" -",
+        "name": "(LENORA)",
+        "prva": "\"Po polnoči pokop naj bo,"
+      },
+      {
+        "kitica": "Pogledaj na visélnice!<br>Plesát okrog kolesa,<br>temnó pri luni vidi se,<br>trop jasen brez telesa.",
+        "name": "(LENORA)",
+        "prva": "Pogledaj na visélnice!"
+      },
+      {
+        "kitica": "Pošasti grde veš, veš, veš!<br>za njima so jo vnele,<br>ko ójster piš skoz zrelo rež,<br>tako so té vršele.<br>In udri, udri, klop, klop, klop<br>naprej leteli so v kolop,<br>de sape ji zmanjkuje,<br>in podkev iskre kuje.",
+        "name": "(LENORA)",
+        "prva": "Pošasti grde veš, veš, veš!"
+      },
+      {
+        "kitica": "\"Petelin, poje, se mi zdi,<br>poteka čas mi tukaj! -<br>V nos jutra sapa me skeli,<br>brž vranec se zasukaj! -<br>Končala pot, končala sva!<br>Odgrinja se ti postljica!<br>Ko blisk leté duhovi,<br>tle moji so domovi!\"",
+        "name": "(LENORA)",
+        "prva": "\"Petelin, poje, se mi zdi,"
+      },
+      {
+        "kitica": "Pod bledo luno se nad njo<br>duhovi so sklenili,<br>plesali krog in krog, bridkó<br>to pesem zatulili:",
+        "name": "(LENORA)",
+        "prva": "Pod bledo luno se nad njo"
+      },
+      {
+        "kitica": "Podal ji mladenič prelepi je rôko,<br>in urno ta dvá sta po pódu zletela,<br>ko de bi lahké peretnice imela,<br>bila bi brez trupla okrog se vrtela,<br>ne vidi se, kdaj de pod noga udar,<br>plesala sta, ko bi ju nosil vihar.",
+        "name": "(POVODNI MOŽ)",
+        "prva": "Podal ji mladenič prelepi je rôko,"
+      },
+      {
+        "kitica": "Povej nam, ribič! povej zares,<br>al čakaš, de pade zvezda z nebes,<br>al, de bi k nji zletel, čakaš peres?",
+        "name": "(RIBIČ)",
+        "prva": "Povej nam, ribič! povej zares,"
+      },
+      {
+        "kitica": "Poslušajo radi ga vsi ljudje,<br>ga gledajo rade dekleta mladé;",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Poslušajo radi ga vsi ljudje,"
+      },
+      {
+        "kitica": "posebno pa Micka, županova hči,<br>pogosto vanjga obrača oči.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "posebno pa Micka, županova hči,"
+      },
+      {
+        "kitica": "Prišel je v grad mlad, lep kancelir,<br>sto zlatih je služil dvakrat štir.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Prišel je v grad mlad, lep kancelir,"
+      },
+      {
+        "kitica": "Priljudna in lepa je njega hči;<br>al ona zvestó za godca gori.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Priljudna in lepa je njega hči;"
+      },
+      {
+        "kitica": "Pod oknam godejo godci trijé,<br>med njimi tam gode ljubi njé.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Pod oknam godejo godci trijé,"
+      },
+      {
+        "kitica": "Pod oknam godejo ure tri;<br>al Micike lepe k oknu ni.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Pod oknam godejo ure tri;"
+      },
+      {
+        "kitica": "Pomisli, de v jopici deklica<br>gospa bi rada vsaka bila.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Pomisli, de v jopici deklica"
+      },
+      {
+        "kitica": "Po struni ga le boli srce;<br>de več je na gosli napeti ne sme.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Po struni ga le boli srce;"
+      },
+      {
+        "kitica": "Preteklo bilo let dvoje še ni,<br>je boljši godel na strune tri,",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Preteklo bilo let dvoje še ni,"
+      },
+      {
+        "kitica": "Pred dvema letama bil je ujet,<br>posíli v soldate bil je vzet.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Pred dvema letama bil je ujet,"
+      },
+      {
+        "kitica": "Plesála sta ravno mimo njega,<br>na goslih je struna póčila.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Plesála sta ravno mimo njega,"
+      },
+      {
+        "kitica": "Po struni ga le boli srcé,<br>de več je na gosli napeti ne sme.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Po struni ga le boli srcé,"
+      },
+      {
+        "kitica": "Po struni se dolgo ni kesal,<br>na dve je spet kmalo gosti znal.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Po struni se dolgo ni kesal,"
+      },
+      {
+        "kitica": "Prišel je bil v grad marsikteri svat,<br>iz mesta prišel je nevestni brat.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Prišel je bil v grad marsikteri svat,"
+      },
+      {
+        "kitica": "Po strunah lok gôri in dôli drvi,<br>de zadnjih strun ena odleti.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Po strunah lok gôri in dôli drvi,"
+      },
+      {
+        "kitica": "Poet tvoj nov Slovencem venec vije,<br>z petnajst sonetov ti tako ga spleta,<br>de magistrále, pesem trikrat peta,<br>vseh drugih skupaj veže harmoníje.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Poet tvoj nov Slovencem venec vije,"
+      },
+      {
+        "kitica": "Prevzetne kakor ti dekleta zale,<br>ko bodo slišale teh pesmi glase,<br>srcá železne djale preč opáse,<br>zvestó ljubezen bodo bolj spoštvale.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Prevzetne kakor ti dekleta zale,"
+      },
+      {
+        "kitica": "Pokopal misli visokoleteče,<br>željá nespolnjenih sem bolečine,<br>ko Črtomír ves up na zemlji sreče;",
+        "name": "(MATIJU ČOPU)",
+        "prva": "Pokopal misli visokoleteče,"
+      }
+    ],
+    "r": [
+      {
+        "kitica": "Rožice cvetó vesele<br>le ob času letne mlade;<br>leto pošlje piš in strele,<br>lepo cvetje jim odpade.",
+        "name": "(DEKLETAM)",
+        "prva": "Rožice cvetó vesele"
+      },
+      {
+        "kitica": "Roža, rosa ino mana<br>naša je mladost, dekleta!<br>Svétjem, naj ne bo zaspana,<br>ki cvetó ji zlate leta.",
+        "name": "(DEKLETAM)",
+        "prva": "Roža, rosa ino mana"
+      },
+      {
+        "kitica": "Rudeče lica zorno še<br>cvetejo, ko so préd cvetle.",
+        "name": "(ZGUBLJENA VERA)",
+        "prva": "Rudeče lica zorno še"
+      },
+      {
+        "kitica": "Rozamunda roža deklic,<br>čast dežele je domače;<br>nje pogledi, svítle strele<br>z néba jasnega poslane,<br>deleč krog junakov srcam<br>vžigajo skeleče rane.",
+        "name": "(TURJAŠKA ROZAMUNDA)",
+        "prva": "Rozamunda roža deklic,"
+      },
+      {
+        "kitica": "Radi dali bodo Turki<br>zanjo naše vam rojake.<br>Brez otrok moj zakon bodi,<br>brez veselja leta stare!<br>ako šla bom préd k poroki,<br>ako préd moža objamem,<br>ko pripelješ Bosnijanko<br>v grad turjaški, de verjamem,<br>de je take res svetlobe<br>turško sonce, kakor slave!\" -",
+        "name": "(TURJAŠKA ROZAMUNDA)",
+        "prva": "Radi dali bodo Turki"
+      },
+      {
+        "kitica": "Rozamunda gréde v klošter,<br>čast ljubljanskih nun postane.",
+        "name": "(TURJAŠKA ROZAMUNDA)",
+        "prva": "Rozamunda gréde v klošter,"
+      },
+      {
+        "kitica": "Rodú Abrahamóvga hči<br>pa dan na dan doma sedi,<br>le malokdej gre med ljudi.",
+        "name": "(JUDOVSKO DEKLE)",
+        "prva": "Rodú Abrahamóvga hči"
+      },
+      {
+        "kitica": "Razbija vranec, spenja se,<br>plamén od njega šine,<br>in pod Lenoro ubogo vse,<br>vse udere se in zgine.<br>In jok in stok je nad zemljó,<br>in jok in stok je bil pod njo.<br>Lenora tam v trepéti<br>jenjvála je živeti.",
+        "name": "(LENORA)",
+        "prva": "Razbija vranec, spenja se,"
+      },
+      {
+        "kitica": "Razplátili srce so, ležalo noč in dan<br>je tam pod jasnim nebam, ko mine zor hladán,<br>ko vstane drugo sonce, srce tako skopni,<br>ko beli sneg spomladi, de kaj zagrebsti ni.",
+        "name": "(NEIZTROHNJENO SRCE)",
+        "prva": "Razplátili srce so, ležalo noč in dan"
+      },
+      {
+        "kitica": "Ran mojih bo spomin in tvoje hvale<br>glasil Slovencem se prihodnje čase,<br>ko mi na zgodnjem grobu mah porase,<br>v njem zdanje bodo bolečine spale.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Ran mojih bo spomin in tvoje hvale"
+      }
+    ],
+    "f": [
+      {
+        "kitica": "Fante zbiraš si prevzetna,<br>se šopiriš, ker si zala;<br>varji, varji, de priletna<br>samka se ne boš jokala!",
+        "name": "(DEKLETAM)",
+        "prva": "Fante zbiraš si prevzetna,"
+      },
+      {
+        "kitica": "Fant s celo močjo se v veslo upre,<br>ni mar skalovja mu, viharjov ne,<br>nič več se na zvezdo ne ozre.",
+        "name": "(RIBIČ)",
+        "prva": "Fant s celo močjo se v veslo upre,"
+      }
+    ],
+    "l": [
+      {
+        "kitica": "Luna sije,<br>kladvo bije<br>trudne, pozne ure že;<br>préd neznane<br>srčne rane<br>meni spati ne pusté.",
+        "name": "(POD OKNAM)",
+        "prva": "Luna sije,"
+      },
+      {
+        "kitica": "Lepota, ljubeznivost vsa<br>je, kakršna je préd bila.",
+        "name": "(ZGUBLJENA VERA)",
+        "prva": "Lepota, ljubeznivost vsa"
+      },
+      {
+        "kitica": "Le svéta, čista glorija,<br>ki vera da jo, je prešla.",
+        "name": "(ZGUBLJENA VERA)",
+        "prva": "Le svéta, čista glorija,"
+      },
+      {
+        "kitica": "Le jadra spet napnimo,<br>valovam se zročimo,<br>kak je čistó morjé!<br>Kaj njemu upat smemo,<br>mornarji dobro vemo;<br>dekletam kaj - kdo ve?",
+        "name": "(MORNAR)",
+        "prva": "Le jadra spet napnimo,"
+      },
+      {
+        "kitica": "Le eni ljubici je zvest,<br>ti ljubci čast se pravi,<br>ta gre z njim v boj krvavi,<br>ga spremi čez goré brez cest,<br>in čez ozidje trdnih mest,<br>kjer smrt junaške brate<br>povabi v svate.",
+        "name": "(SOLDAŠKA)",
+        "prva": "Le eni ljubici je zvest,"
+      },
+      {
+        "kitica": "Ljubice pod okno dragi<br>pride marsiktero noč,<br>z deklico se pogovarjat,<br>dokler se napoči zor.",
+        "name": "(HČERE SVET)",
+        "prva": "Ljubice pod okno dragi"
+      },
+      {
+        "kitica": "List čŕno je zapečaten bil,<br>\"O, mati! tvoj sin je mir dobil!\"",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "List čŕno je zapečaten bil,"
+      },
+      {
+        "kitica": "Lenora, ko se zazorí,<br>iz strašnih sanj se spláši:<br>\"Zvest nis, al živ več, Vilhelm tí!<br>Od kod tak dolg odláši?\"<br>Je kralja Miroslava roj<br>pred Prag ji vnesel bil ga v boj,<br>al zdrav je, kar se ločil,<br>ni pisal, ne poročil.",
+        "name": "(LENORA)",
+        "prva": "Lenora, ko se zazorí,"
+      },
+      {
+        "kitica": "Lenora gôr in dôli vse<br>je vrste oprašála;<br>al zanj ne ve noben, kar je<br>jih vojska dám poslala.<br>Armada komej je odšla,<br>Lenora vŕže se na tla,<br>lase si črne ruje,<br>se grozno togotuje.",
+        "name": "(LENORA)",
+        "prva": "Lenora gôr in dôli vse"
+      },
+      {
+        "kitica": "Lenora brž planila je,<br>na konja je zletela,<br>s prebelimi rokami se<br>preljubga poprijela;<br>in udri, udri, klop, klop, klop<br>se urno spústita v kolop,<br>de sape ji zmanjkuje,<br>in podkev iskre kuje.",
+        "name": "(LENORA)",
+        "prva": "Lenora brž planila je,"
+      },
+      {
+        "kitica": "Lohka bi s temi, in kar bo dobil<br>še zraven, ženico, otroke redil.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Lohka bi s temi, in kar bo dobil"
+      },
+      {
+        "kitica": "Le gosti spet skusi in bodi vesel,<br>de nisi v zakóna se mreže ujel.\"",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Le gosti spet skusi in bodi vesel,"
+      },
+      {
+        "kitica": "Lej, torej je bledó njih cvetje velo<br>in redke so in slabe, nebogljene,<br>v zidéh tak podrtíje zapuščene<br>rasejo včasih rože neveselo,",
+        "name": "(SONETNI VENEC)",
+        "prva": "Lej, torej je bledó njih cvetje velo"
+      }
+    ],
+    "u": [
+      {
+        "kitica": "Up mi vzdigni,<br>z roko migni,<br>ak bojiš se govorít! -<br>Ura bije,<br>k oknu ni je,<br>kaj sirota čem storít!",
+        "name": "(POD OKNAM)",
+        "prva": "Up mi vzdigni,"
+      },
+      {
+        "kitica": "Učeni stan je zaničván,<br>skrbi in hude leta<br>moré ubózga kmeta;<br>narprvi stan soldaški stan:<br>soldat živi vesel v en dan;<br>sej cesar dá pol hleba,<br>in kar je treba.",
+        "name": "(SOLDAŠKA)",
+        "prva": "Učeni stan je zaničván,"
+      },
+      {
+        "kitica": "\"Usmiljen Bog, pomagaj tí!<br>Hči, očenaš molive!<br>Vse dobro je, kar Bog stori.<br>de usmili se, prosive.\"<br>\"O mati, mati! laž je tó!<br>Bog storil meni je hudó!<br>Kogá sem primolila?<br>Zdaj môlit več ni sila!\" -",
+        "name": "(LENORA)",
+        "prva": "\"Usmiljen Bog, pomagaj tí!"
+      },
+      {
+        "kitica": "Ur temnih so zatirale jih sile<br>vse pevca dni, ki té ti pesmi poje;<br>obup, življenja gnus začela boje,<br>Erínje vse so se ga polastíle.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Ur temnih so zatirale jih sile"
+      }
+    ],
+    "v": [
+      {
+        "kitica": "V hram poglejte,<br>mi povejte,<br>zvezde, al res ona spi;<br>al posluša,<br>me le skuša,<br>al za druzega gori.",
+        "name": "(POD OKNAM)",
+        "prva": "V hram poglejte,"
+      },
+      {
+        "kitica": "več rož ne rase v polji,<br>več nima tičov hrib;<br>čebel več kraj narbolji,<br>več nima voda rib,",
+        "name": "(PROŠNJA)",
+        "prva": "več rož ne rase v polji,"
+      },
+      {
+        "kitica": "vsaj name se oziraj,<br>ak nočeš me ljubít;<br>oči mi vsaj odpiraj,<br>mi gledat daj njih svit!",
+        "name": "(PROŠNJA)",
+        "prva": "vsaj name se oziraj,"
+      },
+      {
+        "kitica": "Vrnil bo se prejšnji čas;<br>hodil pota bom temotne,<br>kamor sreče bo togotne<br>gnal nemili me ukaz.",
+        "name": "(K SLOVESU)",
+        "prva": "Vrnil bo se prejšnji čas;"
+      },
+      {
+        "kitica": "Večkrat, ko utrudena praznega hrupa,<br>v misli zamaknjena sama sediš,<br>vsili v spomin se ti pevec brez upa,<br>stari čas skorej nazaj si želiš.",
+        "name": "(SILA SPOMINA)",
+        "prva": "Večkrat, ko utrudena praznega hrupa,"
+      },
+      {
+        "kitica": "V sovražnike z oblakov<br>rodú naj našga treši gróm;<br>prost, ko je bil očakov,<br>naprej naj bo Slovencov dom;<br>naj zdrobé<br>njih roké<br>si spone, ki jih še težé!",
+        "name": "(ZDRAVLJICA)",
+        "prva": "V sovražnike z oblakov"
+      },
+      {
+        "kitica": "V Arabje pušavi<br>se tiček rodi;<br>v odljudni gošavi<br>sam zase živi.",
+        "name": "(V SPOMIN VALENTINA VODNIKA)",
+        "prva": "V Arabje pušavi"
+      },
+      {
+        "kitica": "Ven plane z plamena,<br>s svetlobo obdan,<br>slovéčga imena<br>tič Fenis na dan.",
+        "name": "(V SPOMIN VALENTINA VODNIKA)",
+        "prva": "Ven plane z plamena,"
+      },
+      {
+        "kitica": "Videl si Nemško, Francosko, Britansko,<br>videl si Švajca visoke goré,<br>videl si jasno nebo italjansko;<br>sreče ni ranjeno najdlo srce.",
+        "name": "(V SPOMIN ANDREJA SMOLETA)",
+        "prva": "Videl si Nemško, Francosko, Britansko,"
+      },
+      {
+        "kitica": "Videl povsod si, kak išejo dnarje,<br>kak se le uklanjajo zlatmu bogú;<br>kje bratoljubja si videl oltarje?<br>S sŕcam obupnim si príšel domú.",
+        "name": "(V SPOMIN ANDREJA SMOLETA)",
+        "prva": "Videl povsod si, kak išejo dnarje,"
+      },
+      {
+        "kitica": "V zemlji slovenski, v predragi deželi,<br>ki si jo ljubil presrčno ves čas;<br>v kteri očetje so naši sloveli,<br>ktera zdéj íma grob komej za nas.",
+        "name": "(V SPOMIN ANDREJA SMOLETA)",
+        "prva": "V zemlji slovenski, v predragi deželi,"
+      },
+      {
+        "kitica": "\"Ve Kranjice ste košate,<br>so prijazne Štajerke;<br>Trst dekleta ma bogate,<br>Dunaj zal oblečene.\"",
+        "name": "(OD ŽELEZNE CESTE)",
+        "prva": "\"Ve Kranjice ste košate,"
+      },
+      {
+        "kitica": "\"Ve si pa želte možičke,<br>ki ne stópjo z vójence,<br>zmeram vprežene osličke,<br>dolgočasne revčeke.\"",
+        "name": "(OD ŽELEZNE CESTE)",
+        "prva": "\"Ve si pa želte možičke,"
+      },
+      {
+        "kitica": "\"Varij! celi dan bo gódil,<br>vso noč kašljal stari mož;<br>bo te še od hiše spodil,<br>ak mu stregla prav ne boš.\"",
+        "name": "(OD ŽELEZNE CESTE)",
+        "prva": "\"Varij! celi dan bo gódil,"
+      },
+      {
+        "kitica": "Vsak dan obiskuje, ko préd, grob njé,<br>in milo zdihuje in toči solzé.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Vsak dan obiskuje, ko préd, grob njé,"
+      },
+      {
+        "kitica": "\"Ve, kdor Očeta prav pozna,<br>de rad otrók se usmili;<br>bo ugásnila bridkost srcá<br>pri svetem obhajili.\" -<br>\"Za to, kar v meni zdaj gorí,<br>gasila, obhajila ni!<br>Al obhajilo skliče<br>iz grôbov ven mrliče?\" -",
+        "name": "(LENORA)",
+        "prva": "\"Ve, kdor Očeta prav pozna,"
+      },
+      {
+        "kitica": "Vsi prašajo, kdo zadnji v to jamo djan je bil,<br>gotovo bil svetnik je, ker ni ves v grobu zgnil.<br>Stal tam je kamen, kterga nihče préd čislal ní,<br>hité mu mah otrebit, napis tak govori,",
+        "name": "(NEIZTROHNJENO SRCE)",
+        "prva": "Vsi prašajo, kdo zadnji v to jamo djan je bil,"
+      },
+      {
+        "kitica": "Vnemár naprej je živel, manj svet, ko razujzdan,<br>umrl je nespovedan, in ne v svet olje djan.<br>Vsi pravijo, de njemu svetost ne brani gnit,<br>vsi pravijo, njegovo srcé ne more bít.",
+        "name": "(NEIZTROHNJENO SRCE)",
+        "prva": "Vnemár naprej je živel, manj svet, ko razujzdan,"
+      },
+      {
+        "kitica": "Več let mu žarki zvezde lepé<br>ljubezen sijejo v mlado srce,<br>mu v prsih budijo čiste željé.",
+        "name": "(RIBIČ)",
+        "prva": "Več let mu žarki zvezde lepé"
+      },
+      {
+        "kitica": "Vklon materni, gospodične oko<br>ponujata v zakon mu njeno rokó.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Vklon materni, gospodične oko"
+      },
+      {
+        "kitica": "V pondeljek jutro z veselga godú<br>šel dobre je volje godec domú.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "V pondeljek jutro z veselga godú"
+      },
+      {
+        "kitica": "V nedeljo spet bil je pod lipo ples.<br>\"Kaj vidiš tam? godec! ali je res,",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "V nedeljo spet bil je pod lipo ples."
+      },
+      {
+        "kitica": "Vsi prašajo, kaj se mu zgodílo je?<br>ker ni ga, de bi on vodil vrste.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Vsi prašajo, kaj se mu zgodílo je?"
+      },
+      {
+        "kitica": "Vse misli zvirajo z ljubezni ene<br>in kjer ponoči v spanju so zastale,<br>zbudé se, ko spet zarja noč prežene.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Vse misli zvirajo z ljubezni ene"
+      },
+      {
+        "kitica": "Vreména bodo Kranjcem se zjasnile,<br>jim milše zvezde kakor zdaj sijale,<br>jim pesmi bolj sloveče se glasile;",
+        "name": "(SONETNI VENEC)",
+        "prva": "Vreména bodo Kranjcem se zjasnile,"
+      },
+      {
+        "kitica": "vendàr te bodo morebit ostale<br>med njimi, ker njih poezije mile<br>iz srca svoje so kalí pognale.",
+        "name": "(SONETNI VENEC)",
+        "prva": "vendàr te bodo morebit ostale"
+      },
+      {
+        "kitica": "V samoti iz oči mi solza lije,<br>zatórej pesmi tebi v čast zložêne<br>iz krajev niso, ki v njih sonce sije.",
+        "name": "(SONETNI VENEC)",
+        "prva": "V samoti iz oči mi solza lije,"
+      },
+      {
+        "kitica": "Viharjov jeznih mrzle domačije<br>bile pokrajine naše so, kar, Samo!<br>tvoj duh je zginil, kar nad tvojo jamo<br>pozabljeno od vnukov veter brije.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Viharjov jeznih mrzle domačije"
+      },
+      {
+        "kitica": "Vam izročim, prijatlja dragi mani!<br>ki spi v prezgodnjem gróbi, pesem milo;<br>ločitvi od njega mi je hladilo,<br>bila je lek ljubezni stari rani.",
+        "name": "(MATIJU ČOPU)",
+        "prva": "Vam izročim, prijatlja dragi mani!"
+      }
+    ],
+    "a": [
+      {
+        "kitica": "Ako spava,<br>naj bo zdrava,<br>ak me skuša, nič ne dé;<br>po nje zgubi,<br>ako ljubi<br>druzga; póčlo bo srce.",
+        "name": "(POD OKNAM)",
+        "prva": "Ako spava,"
+      },
+      {
+        "kitica": "Al repetnic razpeti<br>préd nimajo moči,<br>de tvojih jim zasveti<br>nebeška luč oči.",
+        "name": "(PROŠNJA)",
+        "prva": "Al repetnic razpeti"
+      },
+      {
+        "kitica": "Ak hočeš, de jih sence<br>pomoril mraz ne bo;<br>ak hočeš med Slovence,<br>de tvojo čast nesó;",
+        "name": "(PROŠNJA)",
+        "prva": "Ak hočeš, de jih sence"
+      },
+      {
+        "kitica": "Al srce mi drugo ustvari,<br>al počakaj, de to bít<br>v prsih neha - Bog te obvari!<br>préd ni moč te pozabít.",
+        "name": "(UKAZI)",
+        "prva": "Al srce mi drugo ustvari,"
+      },
+      {
+        "kitica": "Al vérvat v tebe moč mi ni,<br>kakor sem vérval prejšnje dni.",
+        "name": "(ZGUBLJENA VERA)",
+        "prva": "Al vérvat v tebe moč mi ni,"
+      },
+      {
+        "kitica": "Ak bi živela vékomej,<br>kar si mi bla, ne boš naprej.",
+        "name": "(ZGUBLJENA VERA)",
+        "prva": "Ak bi živela vékomej,"
+      },
+      {
+        "kitica": "\"Ak je blizo tista cesta,<br>moraš vzet me, ljubček moj!<br>de, pogledat tuje mesta,<br>bom peljala se s teboj.\"",
+        "name": "(OD ŽELEZNE CESTE)",
+        "prva": "\"Ak je blizo tista cesta,"
+      },
+      {
+        "kitica": "\"Ak kaj tacga se napravi,<br>boš počakal, ljubček moj!<br>Vselej mož najmanj zapravi,<br>ak ženico ma s seboj.\"",
+        "name": "(OD ŽELEZNE CESTE)",
+        "prva": "\"Ak kaj tacga se napravi,"
+      },
+      {
+        "kitica": "\"Ak ravno mene ljúbit smeš,<br>jaz dobro vem, ti dobro veš,<br>de v zakon vzeti me ne smeš.\"",
+        "name": "(JUDOVSKO DEKLE)",
+        "prva": "\"Ak ravno mene ljúbit smeš,"
+      },
+      {
+        "kitica": "Al večkrat je nazaj prišla;<br>nje vera trden jez je bila;<br>ljubezni nje ni ustavila.",
+        "name": "(JUDOVSKO DEKLE)",
+        "prva": "Al večkrat je nazaj prišla;"
+      },
+      {
+        "kitica": "Al, ak ne znebiš se srčnih ran,<br>nazaj spet pridi čez let in dan;",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Al, ak ne znebiš se srčnih ran,"
+      },
+      {
+        "kitica": "al, ak ne znebiš se srčnih ran,<br>nazaj spet pridi čez let in dan.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "al, ak ne znebiš se srčnih ran,"
+      },
+      {
+        "kitica": "\"Aló, aló! le brž odpri!<br>Lenora, spiš, al čuješ?<br>Al zvesta si ti, ljubca! mi,<br>se smejaš al zdihuješ?\"<br>\"O Vilhelm, tí? od kod zdaj te<br>tak pozno konj pŕinesel je?<br>Sem čula, sem jokála,<br>bridkosti káj prestala!\" -",
+        "name": "(LENORA)",
+        "prva": "\"Aló, aló! le brž odpri!"
+      },
+      {
+        "kitica": "\"Aló, pošasti! z mano zdaj,<br>mi plésat ženitvanjski raj,<br>nevesto, ko objamem,<br>in s sabo v postljo vzamem!\"",
+        "name": "(LENORA)",
+        "prva": "\"Aló, pošasti! z mano zdaj,"
+      },
+      {
+        "kitica": "Al preden mignil bi z očmi,<br>o čudeža neznane!<br>lej! s kónjika se plajš zdrobi,<br>ko capice sežgane.<br>Ni ga lasu na glavi več,<br>z lasmi mu pade koža preč,<br>lej! smrt je z uro stala,<br>kosó v rokáh držala.",
+        "name": "(LENORA)",
+        "prva": "Al preden mignil bi z očmi,"
+      },
+      {
+        "kitica": "Al, ker se ozira, plesavca si zbira,<br>zagleda pri mizi rumeni junaka;<br>enacga pod soncam mu ni korenjaka,<br>želi si plesáti z njim deklica vsaka -<br>omrežit ga Uršika lepa želi,<br>zaljubljeno v njega obrača oči.",
+        "name": "(POVODNI MOŽ)",
+        "prva": "Al, ker se ozira, plesavca si zbira,"
+      },
+      {
+        "kitica": "\"Ah, majhno postojva, preljubi plesavec!<br>de jaz se oddahnem, de noga počije.\"<br>\"Ni blizo, ni blizo do bele Turčíje,<br>kjer v Donavo Sava se bistra izlije;<br>valovi šumeči te, Urška! želé,<br>le úrno, le urno obrni peté!\" -",
+        "name": "(POVODNI MOŽ)",
+        "prva": "\"Ah, majhno postojva, preljubi plesavec!"
+      },
+      {
+        "kitica": "Al, ko si je zvolila mladenča druzega,<br>iz prs nobena njemu ni pesem več prišla.<br>Pri Bogu ni tolažbe iskál ne pri ljudeh,<br>oči kalil mu jok ni, razjasnil lic ne smeh.",
+        "name": "(NEIZTROHNJENO SRCE)",
+        "prva": "Al, ko si je zvolila mladenča druzega,"
+      },
+      {
+        "kitica": "Ak kaki vihar od déleč preti,<br>ak kaki se morski som privali,<br>ak káko mu brezno nasproti reži,",
+        "name": "(RIBIČ)",
+        "prva": "Ak kaki vihar od déleč preti,"
+      },
+      {
+        "kitica": "Al v kratkem času se zgodi,<br>de cele mesce ga v mestu ni.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Al v kratkem času se zgodi,"
+      },
+      {
+        "kitica": "al nagne žalostno glavíco velo,<br>megla k od burje prileti prignana<br>in pade iz nebes strupena slana,<br>pokrije sneg goré in polje celo.",
+        "name": "(SONETNI VENEC)",
+        "prva": "al nagne žalostno glavíco velo,"
+      },
+      {
+        "kitica": "ak hočeš, da bi zaljši cvet rodile,<br>veselo vele vzdignile glavice,<br>jim iz oči ti pošlji žarke mile!",
+        "name": "(SONETNI VENEC)",
+        "prva": "ak hočeš, da bi zaljši cvet rodile,"
+      }
+    ],
+    "n": [
+      {
+        "kitica": "Ne letajo čebele,<br>krog cvetja ne šumé;<br>clo ribice vesele<br>se klavrno držé.",
+        "name": "(PROŠNJA)",
+        "prva": "Ne letajo čebele,"
+      },
+      {
+        "kitica": "Ne pozabíti jih, so te prosili<br>drugi, ne moje prevzetno srce;<br>v mislih ti niso, al mene posili<br>pomnila boš ti do zadnjega dne.",
+        "name": "(SILA SPOMINA)",
+        "prva": "Ne pozabíti jih, so te prosili"
+      },
+      {
+        "kitica": "Nebeško sijejo oči,<br>ko so sijale prejšnje dni.",
+        "name": "(ZGUBLJENA VERA)",
+        "prva": "Nebeško sijejo oči,"
+      },
+      {
+        "kitica": "Nezvesta! bodi zdrava,<br>čolníč po mene plava,<br>na barko kliče strel;<br>po zemlji varno hôdi,<br>moj up je šel po vodi,<br>mi drug te je prevzel.",
+        "name": "(MORNAR)",
+        "prva": "Nezvesta! bodi zdrava,"
+      },
+      {
+        "kitica": "Ne stráši moč viharja,<br>ne grom valov mornarja,<br>se smrti ne boji.<br>Spomin v potopu mine,<br>ljubezni bolečine<br>vsak dan spet oživi!",
+        "name": "(MORNAR)",
+        "prva": "Ne stráši moč viharja,"
+      },
+      {
+        "kitica": "Nazadnje še, prijatlji,<br>kozarce zase vzdignimo,<br>ki smo zato se zbratli,<br>ker dobro v srcu mislimo;<br>dókaj dni<br>naj živí<br>vsak, kar nas dobrih je ljudi!",
+        "name": "(ZDRAVLJICA)",
+        "prva": "Nazadnje še, prijatlji,"
+      },
+      {
+        "kitica": "Narslajši dišave,<br>ki zanje sam ve,<br>naržlahtniši trave,<br>kadila dragé,",
+        "name": "(V SPOMIN VALENTINA VODNIKA)",
+        "prva": "Narslajši dišave,"
+      },
+      {
+        "kitica": "\"Ne zameri, ne zameri,<br>cvet lepote, dekle drago!<br>Naj tekó ti mirni dnevi,<br>Bog ti žívi teto staro.<br>Je v šestnajstem, mislim, léti<br>se možiti še prekmalo;<br>de te ljúbit ni prezgodej,<br>tvoji mi pogledi právjo.<br>V pravdah ne želi pero ti,<br>al srce, le zate vžgano,<br>ti želi v ljubezni slúžit;<br>brez pokoja to za tabo<br>vódi mi poglede, misli<br>in nogé z močjo neznano,<br>koder hodiš, cvet lepote,<br>žlahtna roža; dekle drago!\"",
+        "name": "(DOHTAR)",
+        "prva": "\"Ne zameri, ne zameri,"
+      },
+      {
+        "kitica": "Ni nevesti všeč, kar reče,<br>mal odgovor ji dopade,<br>lica spremeni rudeče,<br>nejevolja jo prevzame,<br>Ojstrovrharja pogleda,<br>reče mu iz jeze nagle:",
+        "name": "(TURJAŠKA ROZAMUNDA)",
+        "prva": "Ni nevesti všeč, kar reče,"
+      },
+      {
+        "kitica": "Na vojsko je šel, se sŕčno bojvál,<br>časti ni, mir je tamkej iskál.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Na vojsko je šel, se sŕčno bojvál,"
+      },
+      {
+        "kitica": "\"Na Ogrskem, pomisli, hči!<br>nezvest tvoj morebiti,<br>de pravo vero zdaj tají,<br>se drugi prikupíti.<br>Iz misel spústi ga! zato<br>nikoli srečen on ne bo,<br>bo kriva pekla téga,<br>ko umiral bo, prisega.\" -",
+        "name": "(LENORA)",
+        "prva": "\"Na Ogrskem, pomisli, hči!"
+      },
+      {
+        "kitica": "\"Naj, ljubca! zunaj brije mraz,<br>de hotel bolj bi briti!<br>Moj konj cepta, poteka čas,<br>ne smem se dalj muditi.<br>Podpaši, vrzi ročnama<br>na vranca zad se, ljubica!<br>Z nevesto danes spati,<br>sto moram milj dirjáti.\"",
+        "name": "(LENORA)",
+        "prva": "\"Naj, ljubca! zunaj brije mraz,"
+      },
+      {
+        "kitica": "Na levi, desni strani, glej!<br>kak spred oči leteli<br>so logi, travniki naprej,<br>mostovi kak gromeli! -<br>\"Te strah ni? - Luno lej svetlo!<br>Mrliči jézdjo jadrno!<br>Jih strah je tebe tudi?\"<br>\"Me ni, mrtvih ne budi!\"",
+        "name": "(LENORA)",
+        "prva": "Na levi, desni strani, glej!"
+      },
+      {
+        "kitica": "Na levi, desni kak letí<br>grmovje, graja, cesta!<br>Kako leté jim spred oči,<br>vasi, trgóvi, mesta! -<br>\"Te strah ni? - Luno lej svetlo!<br>Mrliči jézdjo jadrno!<br>Ni strah te mrtvih tudi?\"<br>\"Me ni - mrtvih ne budi.\"",
+        "name": "(LENORA)",
+        "prva": "Na levi, desni kak letí"
+      },
+      {
+        "kitica": "Na Starem so trgu pod lipo zeleno<br>trobente in gosli, in cimbale pele,<br>plesále lepote z Ljubljane so cele<br>v nedeljo popoldan z mladenči vesele;<br>bila je kraljica njih Urška brhka,<br>plesáti ni dolgo nje volja bila.",
+        "name": "(POVODNI MOŽ)",
+        "prva": "Na Starem so trgu pod lipo zeleno"
+      },
+      {
+        "kitica": "\"Ne boj se, ti Urška! le hitro mi stópi,<br>ne boj se,\" ji reče, \"ne boj se gromenja,<br>ne boj se potokov ti mojih šumenja,<br>ne boj se vetrov mi prijaznih vršenja;<br>le urno, le urno obrni peté,<br>le urno, le urno, ker pozno je že!\"",
+        "name": "(POVODNI MOŽ)",
+        "prva": "\"Ne boj se, ti Urška! le hitro mi stópi,"
+      },
+      {
+        "kitica": "na zvezdo gledjóč vhití, bo otet;<br>mlad ribič od čistega ognja<br>po morji je varno veslal več let.",
+        "name": "(RIBIČ)",
+        "prva": "na zvezdo gledjóč vhití, bo otet;"
+      },
+      {
+        "kitica": "Nocoj bi drugi odprl oči,<br>bi videl, kak blizo strelca stoji,<br>lepota, ki zanjo srce ti gori.\"",
+        "name": "(RIBIČ)",
+        "prva": "Nocoj bi drugi odprl oči,"
+      },
+      {
+        "kitica": "Naprej brez miru svoj čoln drví;<br>al tak za pevkami ribič hiti,<br>kdo ve! al sám pred seboj beži.",
+        "name": "(RIBIČ)",
+        "prva": "Naprej brez miru svoj čoln drví;"
+      },
+      {
+        "kitica": "Nje oča scer stavi ljubezni se v bran;<br>al oča bo spróšen, al pa goljufan.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Nje oča scer stavi ljubezni se v bran;"
+      },
+      {
+        "kitica": "Novica pravi se na glas,<br>de hodi k županu pogosto v vas.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Novica pravi se na glas,"
+      },
+      {
+        "kitica": "Nje godec strune pritiska hudó,<br>od Micike jemlje nékdo slovo.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Nje godec strune pritiska hudó,"
+      },
+      {
+        "kitica": "Na goslih póčila struna je,<br>to, godec! ni dobro znamenje.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Na goslih póčila struna je,"
+      },
+      {
+        "kitica": "Na mali šmaren preblečena<br>gospa je Micika v cerkev prišla.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Na mali šmaren preblečena"
+      },
+      {
+        "kitica": "Na pragu deklica lepa stoji,<br>in solza za solzo ji káplja z oči.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Na pragu deklica lepa stoji,"
+      },
+      {
+        "kitica": "\"Neumnost in ubožnost ste sestré,<br>bila ni deklica taka za té.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "\"Neumnost in ubožnost ste sestré,"
+      },
+      {
+        "kitica": "Njo, koder on hodi, iše oko,<br>vse pesmi njegove nje hvalo pojó.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Njo, koder on hodi, iše oko,"
+      },
+      {
+        "kitica": "Na eno je struno godel vesel,<br>in zraven od svojih ljubic je pel.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Na eno je struno godel vesel,"
+      },
+      {
+        "kitica": "Ne zmisli, de dih prve sapce bóde<br>odnesel to, kar misli so stvaríle,<br>pozabi koj nesreč prestanih škode,<br>in ran, ki so se komej zacelile,<br>dokler, de smo brez dna polníli sode;<br>zučé nas v starjih letih časov sile.<br>Zato, mladost! po tvoji temni zarji<br>srce zdihválo bo mi, Bog te obvarji!",
+        "name": "(SLOVO OD MLADOSTI)",
+        "prva": "Ne zmisli, de dih prve sapce bóde"
+      },
+      {
+        "kitica": "Njih sonce ti si. V oknu domačíje<br>ne da te najti, luč ti ljubezniva,<br>v gledišču, na sprehodih sreča kriva,<br>ne v krajih, kjer plesávk vrstà se vije.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Njih sonce ti si. V oknu domačíje"
+      },
+      {
+        "kitica": "Nad žarki sonca so se te zmotile,<br>na mrazu zapuščene so ostale,<br>ur temnih so zatírale jih sile.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Nad žarki sonca so se te zmotile,"
+      },
+      {
+        "kitica": "na novo bo srcé spet oživelo,<br>v njem rasle jasnih poezíj cvetlice<br>in gnale bodo nov cvet bolj veselo.",
+        "name": "(SONETNI VENEC)",
+        "prva": "na novo bo srcé spet oživelo,"
+      },
+      {
+        "kitica": "Naj pesmi milost tvoja vsaj obsije,<br>ki iz njih, hladiti rane si skeleče,<br>poet tvoj nov Slovencem venec vije",
+        "name": "(SONETNI VENEC)",
+        "prva": "Naj pesmi milost tvoja vsaj obsije,"
+      },
+      {
+        "kitica": "Ne vedel bi, kako se v strup prebrača<br>vse, kar srce si sladkega obeta;<br>mi ne bila bi vera v sebe vzeta,<br>ne bil viharjov nótranjih b igrača!",
+        "name": "(O VRBA, SREČNA, DRAGA VAS DOMAČA)",
+        "prva": "Ne vedel bi, kako se v strup prebrača"
+      }
+    ],
+    "ž": [
+      {
+        "kitica": "Žaluje vsaka živa<br>stvar, draga deklica!<br>ak dálej sonca skriva<br>se luč rumenega:",
+        "name": "(PROŠNJA)",
+        "prva": "Žaluje vsaka živa"
+      },
+      {
+        "kitica": "Žale misli v srcu ni;<br>saj ni préd bilo veselo,<br>ko se zate je unelo,<br>naj ne bo prihodnje dni!",
+        "name": "(K SLOVESU)",
+        "prva": "Žale misli v srcu ni;"
+      },
+      {
+        "kitica": "Život je tak, roké, nogé<br>so, kakršne so préd bilé.",
+        "name": "(ZGUBLJENA VERA)",
+        "prva": "Život je tak, roké, nogé"
+      },
+      {
+        "kitica": "Živé naj vsi naródi,<br>ki hrepené dočakat dan,<br>ko, koder sonce hodi,<br>prepir iz svéta bo pregnan,<br>ko rojak<br>prost bo vsak,<br>ne vrag, le sosed bo mejak!",
+        "name": "(ZDRAVLJICA)",
+        "prva": "Živé naj vsi naródi,"
+      },
+      {
+        "kitica": "\"Žene jaz ne bom zapiral,<br>bal ne bom se zanjo nič;<br>nje obresti bom pobiral,<br>živel brez skrbi ko tič.\"",
+        "name": "(OD ŽELEZNE CESTE)",
+        "prva": "\"Žene jaz ne bom zapiral,"
+      },
+      {
+        "kitica": "Ženin z njo obljubljen svoje<br>zbere Ojstrovrhar hlapce,<br>po prijatlje bližnje pošlje,<br>in si ójster meč opaše,<br>ročno jezdi nad Turčine,<br>spolnit voljo svoje drage.<br>Ne globoka reka, Kolpa,<br>ne vdržé ga turške straže,<br>meč krvavi v močni desni,<br>pred seboj drvi Bosnjake,<br>bášetovi grad razdene,<br>reši z sužnosti rojake,<br>z njimi bášetovo lépo<br>sestro vitez s sabo vzame,<br>črnooko, svetlolično,<br>rásti in podobe rajske;<br>vseh lepot bila je sonce,<br>ki so tisti čas sijale.",
+        "name": "(TURJAŠKA ROZAMUNDA)",
+        "prva": "Ženin z njo obljubljen svoje"
+      },
+      {
+        "kitica": "Željá se ogenj v meni ne poleže,<br>das upa tvoj pogled v srce ne vlije,<br>strah razžalíti te mi jezik veže.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Željá se ogenj v meni ne poleže,"
+      },
+      {
+        "kitica": "Željé rodile so prehrepeneče,<br>de s tvojim moje bi ime slovelo,<br>domače pesmi milo se glaseče;",
+        "name": "(SONETNI VENEC)",
+        "prva": "Željé rodile so prehrepeneče,"
+      },
+      {
+        "kitica": "željé, de zbudil bi Slovenšno célo,<br>de bi vrnili k nam se časi sreče,<br>jim moč so dale rasti nevesélo.",
+        "name": "(SONETNI VENEC)",
+        "prva": "željé, de zbudil bi Slovenšno célo,"
+      }
+    ],
+    "d": [
+      {
+        "kitica": "Da ne smem, si ukazala,<br>belih rok se dotaknít;<br>zvédla, deklica si zala!<br>káko znam pokoren bit.",
+        "name": "(UKAZI)",
+        "prva": "Da ne smem, si ukazala,"
+      },
+      {
+        "kitica": "De ne smem, si ukazala,<br>od ljubezni govorít;<br>zvédla, deklica si zala!<br>káko znam pokoren bit.",
+        "name": "(UKAZI)",
+        "prva": "De ne smem, si ukazala,"
+      },
+      {
+        "kitica": "Desno roko brez skrbi<br>daj k prijaznemu slovesu,<br>solz v nobenem ni očesu,<br>žal besede v ustih ni.",
+        "name": "(K SLOVESU)",
+        "prva": "Desno roko brez skrbi"
+      },
+      {
+        "kitica": "Drug ti je v skŕbno nastavljene mreže<br>nestanovitno zasačil srce;<br>vender na mene še nekaj te veže,<br>kaj de je, komej med nama se ve.",
+        "name": "(SILA SPOMINA)",
+        "prva": "Drug ti je v skŕbno nastavljene mreže"
+      },
+      {
+        "kitica": "Doma povsod, doma nikír,<br>obhódi dosti svéta,<br>zavolj njega dekleta,<br>ženice ímajo prepir,<br>in kadar zapusti kvartir,<br>si marsiktéra z hiše<br>solzice briše.",
+        "name": "(SOLDAŠKA)",
+        "prva": "Doma povsod, doma nikír,"
+      },
+      {
+        "kitica": "Deklica druzga moža je objela,<br>ki od ljubezni do nje si bil vnet;<br>trešla v bogastvo nesreče je strela,<br>kranjski v obupu zapustil si svet.",
+        "name": "(V SPOMIN ANDREJA SMOLETA)",
+        "prva": "Deklica druzga moža je objela,"
+      },
+      {
+        "kitica": "De prisegel, si obljubil,<br>de boš mene sámo ljubil,<br>de ne boš ti druge snubil,<br>ni ti v mislih več nikdár,<br>Bog te obvar!",
+        "name": "(ZAPUŠČENA)",
+        "prva": "De prisegel, si obljubil,"
+      },
+      {
+        "kitica": "De srce, ki je gorelo<br>le za té, življenje celo<br>níkdar več ne bo veselo,<br>kaj je tebi tega mar;<br>Bog te obvar!",
+        "name": "(ZAPUŠČENA)",
+        "prva": "De srce, ki je gorelo"
+      },
+      {
+        "kitica": "\"Dohtar, ti jezični dohtar!<br>kaj postopaš ti za mano?<br>Ne prepiram se z nobenim,<br>de bi peljal mojo pravdo;<br>ni umrla teta moja,<br>teta moja, dekle staro,<br>de bi, dohtar! mi opravljal<br>po nji dédino bogato;<br>sem premlada, de bi pismo<br>ženitvanjsko se pisalo.<br>Dohtar, ti jezični dohtar!<br>kaj postopaš ti za mano?\"",
+        "name": "(DOHTAR)",
+        "prva": "\"Dohtar, ti jezični dohtar!"
+      },
+      {
+        "kitica": "Dókaj jo baronov snubi:<br>troje iz dežele laške,<br>troje iz dežele nemške,<br>troje z štajerske in kranjske,<br>ino zraven Ojstrovrhar,<br>ki so boji mu igrače.<br>Lep junak srce bil vnel je<br>gospodične zlo košate;<br>ki ukaže mu, de prosi<br>od očeta jo in žlahte.<br>Njemu oča nje napravi<br>imenitno gostovanje,<br>Rozamundo mu obljubi,<br>reče mu pripeljat svate<br>v treh nedeljah, de nevesto<br>z hiše spremijo domače.",
+        "name": "(TURJAŠKA ROZAMUNDA)",
+        "prva": "Dókaj jo baronov snubi:"
+      },
+      {
+        "kitica": "\"De ljúbit moram vse ljudi,<br>tak vera moja me uči,<br>al ljubiš me; judovska hči?\"",
+        "name": "(JUDOVSKO DEKLE)",
+        "prva": "\"De ljúbit moram vse ljudi,"
+      },
+      {
+        "kitica": "Do sŕca velíko íma oblast<br>vojšakov ljubica, presvítla čast,",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Do sŕca velíko íma oblast"
+      },
+      {
+        "kitica": "De je lepó, bi sodil, visoko čelo, vsak,<br>ak bil bi nekakóvi zapustil ga oblak;<br>bile lepé bi usta, lep bil obraz bi bled,<br>ak bil bi nekakóvi preč nejevolje sled.",
+        "name": "(NEIZTROHNJENO SRCE)",
+        "prva": "De je lepó, bi sodil, visoko čelo, vsak,"
+      },
+      {
+        "kitica": "Dalj čas ni trupla gledat, dih prvi ga zdrobi;<br>srce samo zavzetim ostane pred očmi.<br>še bije, še čutiti je ravno tak gorkó,<br>ko, de bilo bi v prsih še zdravo in živó.",
+        "name": "(NEIZTROHNJENO SRCE)",
+        "prva": "Dalj čas ni trupla gledat, dih prvi ga zdrobi;"
+      },
+      {
+        "kitica": "de Dobroslav je pevec bil tjékej pokopan,<br>ki pel v tak milih glasih je od ljubezni ran,<br>pel v tak slovečih pesmah čast lepe deklice,<br>prevzetne gospodične, nemile ljubice.",
+        "name": "(NEIZTROHNJENO SRCE)",
+        "prva": "de Dobroslav je pevec bil tjékej pokopan,"
+      },
+      {
+        "kitica": "de stara ljubezen ne zarijovi,<br>devetkrat se vrne, ponovi?",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "de stara ljubezen ne zarijovi,"
+      },
+      {
+        "kitica": "\"De ône samé nam úrjo roké,<br>de ône samé nam gláve vedré.\"",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "\"De ône samé nam úrjo roké,"
+      },
+      {
+        "kitica": "Dni mojih lepši polovica kmalo,<br>mladosti leta! kmalo ste minule;<br>rodile vé ste meni cvetja malo,<br>še tega rožce so se koj osule,<br>le redko upa sonce je sijalo,<br>viharjov jeze so pogosto rjule;<br>mladost! vender po tvoji temni zarji<br>srce bridkó zdihuje, Bog te obvarji!",
+        "name": "(SLOVO OD MLADOSTI)",
+        "prva": "Dni mojih lepši polovica kmalo,"
+      },
+      {
+        "kitica": "Das od ljubezni usta so molčále,<br>ki mu mračila je mladósti zore,<br>ki v upu nič imela ni podpore,<br>skriváj so pesmi jo razodevále.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Das od ljubezni usta so molčále,"
+      },
+      {
+        "kitica": "De bi nebesa milost nam skazale!<br>otajat Krajna našega sinove,<br>njih in Slovencov vseh okrog rodove,<br>z domačmi pesmam Orfeja poslale!",
+        "name": "(SONETNI VENEC)",
+        "prva": "De bi nebesa milost nam skazale!"
+      },
+      {
+        "kitica": "De bi nam srca vnel za čast dežele,<br>med nami potolažil razprtije,<br>in spet zedinil rod Slovenšne cele!",
+        "name": "(SONETNI VENEC)",
+        "prva": "De bi nam srca vnel za čast dežele,"
+      },
+      {
+        "kitica": "De b od sladkóte njega poezije<br>potihnil ves prepir, bile vesele<br>viharjov jeznih mrzle domačije!",
+        "name": "(SONETNI VENEC)",
+        "prva": "De b od sladkóte njega poezije"
+      }
+    ],
+    "m": [
+      {
+        "kitica": "Moram de, si ukazala,<br>hojo k tebi opustít;<br>zvédla, deklica si zala!<br>káko znam pokoren bit.",
+        "name": "(UKAZI)",
+        "prva": "Moram de, si ukazala,"
+      },
+      {
+        "kitica": "Moram de, si ukazala,<br>tebe se povsod ognít;<br>zvédla, deklica si zala!<br>káko znam pokoren bit.",
+        "name": "(UKAZI)",
+        "prva": "Moram de, si ukazala,"
+      },
+      {
+        "kitica": "Moja stara ljuba bo,<br>bo potrpežljivost mila<br>zvezo z mano ponovila,<br>v zakon dala mi rokó.",
+        "name": "(K SLOVESU)",
+        "prva": "Moja stara ljuba bo,"
+      },
+      {
+        "kitica": "Marsikdej se govorica ti zmeša,<br>ko me zagledaš med drugmi ljudmi,<br>marsikdej tvoje oko me pogreša,<br>išeš okoli me s plašnim očmi.",
+        "name": "(SILA SPOMINA)",
+        "prva": "Marsikdej se govorica ti zmeša,"
+      },
+      {
+        "kitica": "Marsikdej, ko ti tvoj ljubi zapoje,<br>sreče v ljubezni se baha vesel,<br>v srcu te zbadajo pesmice moje,<br>ki jih od njene nesreče sem pel.",
+        "name": "(SILA SPOMINA)",
+        "prva": "Marsikdej, ko ti tvoj ljubi zapoje,"
+      },
+      {
+        "kitica": "Morjá široka cesta<br>peljala me je v mesta,<br>kjer lepe deklice;<br>obrazov njih lepota,<br>sneg beli njih života<br>zmotila nista me.",
+        "name": "(MORNAR)",
+        "prva": "Morjá široka cesta"
+      },
+      {
+        "kitica": "Mladenči, zdaj se pije<br>zdravljica vaša, vi naš up;<br>ljubezni domačije<br>noben naj vam ne usmŕti strup;<br>ker zdaj vas<br>kakor nas,<br>jo sŕčno bránit kliče čas!",
+        "name": "(ZDRAVLJICA)",
+        "prva": "Mladenči, zdaj se pije"
+      },
+      {
+        "kitica": "Mogla umreti ni stara Sibila,<br>de so prinesli ji z doma prsti;<br>ena se tebi je želja spolnila:<br>v zemlji domači de truplo leži.",
+        "name": "(V SPOMIN ANDREJA SMOLETA)",
+        "prva": "Mogla umreti ni stara Sibila,"
+      },
+      {
+        "kitica": "Meni nebö odprto se zdi,<br>kadar se v tvoje ozrem oči,<br>kadar prijazno nasmejaš se,<br>kar sem prestala, pozabljeno je.",
+        "name": "(NEZAKONSKA MATI)",
+        "prva": "Meni nebö odprto se zdi,"
+      },
+      {
+        "kitica": "Mladenič obljubi ostati ji zvest,<br>se noč in dan jokal je mescov šest.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Mladenič obljubi ostati ji zvest,"
+      },
+      {
+        "kitica": "mi v kloštru prebiva drugi brat,<br>tvoj drugi je ujec učen opat.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "mi v kloštru prebiva drugi brat,"
+      },
+      {
+        "kitica": "Moj tretji brat vojskni je poglavar,<br>spet pridi nazaj, ne obupaj nikar.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Moj tretji brat vojskni je poglavar,"
+      },
+      {
+        "kitica": "Mnogtére device, mnogtére ženice<br>oko je na skrivnem solzé preliválo,<br>ker Urški srce se je ljubega vdalo;<br>al ljubih bilo je nji vedno premalo.<br>Kar slišala moških okrog je slovét,<br>skušála jih v mreže razpete je ujet.",
+        "name": "(POVODNI MOŽ)",
+        "prva": "Mnogtére device, mnogtére ženice"
+      },
+      {
+        "kitica": "Mi mu srce odprimo, pod nebam naj leži,<br>de dan današnji prejde, de prva noč miní,<br>de vstane drugo sonce, pripelje beli dan;<br>spet zájtro ga poglejmo, ko mine zor hladan.",
+        "name": "(NEIZTROHNJENO SRCE)",
+        "prva": "Mi mu srce odprimo, pod nebam naj leži,"
+      },
+      {
+        "kitica": "Mlad ribič cele noči veslá,<br>visoko na nebi zvezda miglja,<br>nevarne mu kaže pota morjá.",
+        "name": "(RIBIČ)",
+        "prva": "Mlad ribič cele noči veslá,"
+      },
+      {
+        "kitica": "Mokrócveteče rožce poezíje<br>očítajo to, kar se v prsih skriva.<br>Srcé mi je postalo vrt in njiva,<br>kjer seje zdaj ljubezen elegíje.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Mokrócveteče rožce poezíje"
+      },
+      {
+        "kitica": "Minuli sreče so in slave časi,<br>ker vredne dela niso jih budile,<br>omólknili so pesmi sladki glási.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Minuli sreče so in slave časi,"
+      },
+      {
+        "kitica": "mi mirno plavala bi moja barka,<br>pred ognjam dom, pred točo mi pšenico<br>bi bližnji sosed vároval - svet Marka.",
+        "name": "(O VRBA, SREČNA, DRAGA VAS DOMAČA)",
+        "prva": "mi mirno plavala bi moja barka,"
+      },
+      {
+        "kitica": "Minljivost sladkih zvez na svet oznani,<br>kak kratko je veselih dni število,<br>de srečen je le tá, kdor z Bogomilo<br>up sreče unstran groba v prsih hrani.",
+        "name": "(MATIJU ČOPU)",
+        "prva": "Minljivost sladkih zvez na svet oznani,"
+      }
+    ],
+    "z": [
+      {
+        "kitica": "Zraven si mi ukazala,<br>de te moram pozabít;<br>bógal, deklica bi zala!<br>ak bi moglo se zgodít.",
+        "name": "(UKAZI)",
+        "prva": "Zraven si mi ukazala,"
+      },
+      {
+        "kitica": "Zanj družba ne mara,<br>in on ne za njo;<br>v samoti se stara,<br>mu leta tekó.",
+        "name": "(V SPOMIN VALENTINA VODNIKA)",
+        "prva": "Zanj družba ne mara,"
+      },
+      {
+        "kitica": "Zbrani prijatlji v spomin ga pijemo<br>tvojih veselih in žalostnih dni;<br>zraven si take zdravljice pojemo,<br>de ni nesrečen, kdor v grobu leži.",
+        "name": "(V SPOMIN ANDREJA SMOLETA)",
+        "prva": "Zbrani prijatlji v spomin ga pijemo"
+      },
+      {
+        "kitica": "Za bele jo roké prijel,<br>na sŕce stisnil, jo objel,<br>je govoriti tak začel:",
+        "name": "(JUDOVSKO DEKLE)",
+        "prva": "Za bele jo roké prijel,"
+      },
+      {
+        "kitica": "Zdéj vtihne vse! - Pogrebcov ni!<br>Pokoren ti besedi,<br>klop, klop trdó za njim letí<br>cel trop po konja sledi;<br>in udri, udri, klop, klop, klop<br>naprej leteli so v kolop,<br>de sapa ji zmanjkuje,<br>in podkev iskre kuje.",
+        "name": "(LENORA)",
+        "prva": "Zdéj vtihne vse! - Pogrebcov ni!"
+      },
+      {
+        "kitica": "Zgubljen je, vtopljen, se bojim;<br>kdor ljubi brez upa, ga svarim,<br>nikar naj ne vesla za njim!",
+        "name": "(RIBIČ)",
+        "prva": "Zgubljen je, vtopljen, se bojim;"
+      },
+      {
+        "kitica": "Zastonj več druzih postopa za njo,<br>le njemu prijazno se smeja oko.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Zastonj več druzih postopa za njo,"
+      },
+      {
+        "kitica": "Zarotil se je, se je zaklel,<br>de strune druge ne bo napel.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Zarotil se je, se je zaklel,"
+      },
+      {
+        "kitica": "Zakaj si bogate lotil se?<br>Snubačov ima na zbíranje.\"",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Zakaj si bogate lotil se?"
+      },
+      {
+        "kitica": "Za dar svoj on je nepôkoj prejel,<br>za ubogo deklico se je vnel.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Za dar svoj on je nepôkoj prejel,"
+      },
+      {
+        "kitica": "Zakaj se tak jezno obrača t oko?<br>Kaj strune pritiskaš tak hudó?\"",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Zakaj se tak jezno obrača t oko?"
+      },
+      {
+        "kitica": "Zarotil se je, se je zaklel,<br>de níkdar več druge ne bo napel.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Zarotil se je, se je zaklel,"
+      },
+      {
+        "kitica": "Zvestoba je brati v godca očeh,<br>ki ni je najdel pri ljubicah dveh.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Zvestoba je brati v godca očeh,"
+      },
+      {
+        "kitica": "Zarótil se je, se je zaklel,<br>de druge ne bóde strune napel.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Zarótil se je, se je zaklel,"
+      },
+      {
+        "kitica": "Zaljubil se ni v nobeno več,<br>dal eno jim hvalo je godec sloveč:",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Zaljubil se ni v nobeno več,"
+      },
+      {
+        "kitica": "Zbežále so te sanje kratkočasne,<br>biló blisk nagel upanje je celo,<br>ki le temnejši noč stori, ko ugasne.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Zbežále so te sanje kratkočasne,"
+      },
+      {
+        "kitica": "Zjasnílo se mi bo spet mračno líce,<br>spet upanje bo v srcu zelenelo<br>in ústom dalo sladke govoríce;",
+        "name": "(SONETNI VENEC)",
+        "prva": "Zjasnílo se mi bo spet mračno líce,"
+      },
+      {
+        "kitica": "Zvestó srce in delavno ročico<br>za doto, ki je nima miljonarka,<br>bi bil dobil z izvoljeno devico;",
+        "name": "(O VRBA, SREČNA, DRAGA VAS DOMAČA)",
+        "prva": "Zvestó srce in delavno ročico"
+      }
+    ],
+    "e": [
+      {
+        "kitica": "En sam pogled je vzel jo preč,<br>nazaj ne bo je níkdar več.",
+        "name": "(ZGUBLJENA VERA)",
+        "prva": "En sam pogled je vzel jo preč,"
+      },
+      {
+        "kitica": "Edinost, sreča, sprava<br>k nam naj nazaj se vrnejo;<br>otrók, kar ima Slava,<br>vsi naj si v róke sežejo,<br>de oblast<br>in z njo čast,<br>ko préd, spet naša boste last!",
+        "name": "(ZDRAVLJICA)",
+        "prva": "Edinost, sreča, sprava"
+      },
+      {
+        "kitica": "Enkrat se valovi morjá razdelé,<br>prikažejo z njih se dekleta lepé,<br>do pasa morske dekleta nagé.",
+        "name": "(RIBIČ)",
+        "prva": "Enkrat se valovi morjá razdelé,"
+      }
+    ],
+    "b": [
+      {
+        "kitica": "Bog žívi vas Slovenke,<br>prelepe, žlahtne rožice;<br>ni take je mladenke,<br>ko naše je krvi dekle;<br>naj sinóv<br>zarod nov<br>iz vas bo strah sovražnikov!",
+        "name": "(ZDRAVLJICA)",
+        "prva": "Bog žívi vas Slovenke,"
+      },
+      {
+        "kitica": "\"Bliža se železna cesta,<br>nje se, ljubca! veselim;<br>iz Ljubljane v druge mesta,<br>kakor tiček poletim.\"",
+        "name": "(OD ŽELEZNE CESTE)",
+        "prva": "\"Bliža se železna cesta,"
+      },
+      {
+        "kitica": "Bog obvar te zdaj in vedno,<br>Bog obvar te z ljubco čedno,<br>Bog men uro daj posledno<br>préd, ko gresta pred oltar,<br>Bog te obvar!",
+        "name": "(ZAPUŠČENA)",
+        "prva": "Bog obvar te zdaj in vedno,"
+      },
+      {
+        "kitica": "\"Bog jo žívi gospodično,<br>Bog ji hčere daj enake,<br>tak cveteče, tak sloveče!<br>Bog ji sine daj junake!<br>Pod cesarjam zdéj narlepši<br>cvet turjaška roža rase;<br>sestra bášetova v Bosni,<br>sonce vse lepote zdanje<br>po vsem svéti razglašena,<br>ako slave glas ne laže,<br>sama bi utegníla biti<br>lepši od neveste vaše.\"",
+        "name": "(TURJAŠKA ROZAMUNDA)",
+        "prva": "\"Bog jo žívi gospodično,"
+      },
+      {
+        "kitica": "Bolj ko lepa Rozamunda,<br>lepši Lejla mu dopade,<br>v grad turjaški je ne pelje,<br>na svoj grad domú jo vzame.<br>Cvet junakov, Ojstrovrhar,<br>ji srce nedolžno gane.<br>Vero zapusti Mahóma,<br>turške šege in navade;<br>ko bila se naučila<br>vseh resnic je vere prave,<br>jo je krstil, potlej njiju<br>je poročil grajski pater.",
+        "name": "(TURJAŠKA ROZAMUNDA)",
+        "prva": "Bolj ko lepa Rozamunda,"
+      },
+      {
+        "kitica": "Brat prvi kupec je, on kupe zlatá,<br>na mero ta ujec tvoj íma srebrá.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Brat prvi kupec je, on kupe zlatá,"
+      },
+      {
+        "kitica": "Bolj umne, bogate, bolj lepé<br>boš videl, pozabil podobo njé.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Bolj umne, bogate, bolj lepé"
+      },
+      {
+        "kitica": "Bogate je videl, umne, lepé;<br>pozabil ni vender ljubce bledé.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Bogate je videl, umne, lepé;"
+      },
+      {
+        "kitica": "Bilo bi drugemu čákat dolgčas,<br>bilo bi drugemu čákat mraz,<br>bi drugi se ne ogibal nas.",
+        "name": "(RIBIČ)",
+        "prva": "Bilo bi drugemu čákat dolgčas,"
+      },
+      {
+        "kitica": "Bil godec je mlad, in lep, in vesel,<br>lepó je godel, sladkó je pel.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Bil godec je mlad, in lep, in vesel,"
+      },
+      {
+        "kitica": "Bilo ni godú, svatóvšne, semnja,<br>de tje ne bili bi vabíli ga.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Bilo ni godú, svatóvšne, semnja,"
+      },
+      {
+        "kitica": "Bil velki šmaren prišel je spet,<br>prišel god Micike, rože deklet.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Bil velki šmaren prišel je spet,"
+      },
+      {
+        "kitica": "Bil čas se je Micki prikupít,<br>zagódnico čas ji je bil naredít.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Bil čas se je Micki prikupít,"
+      },
+      {
+        "kitica": "Bilo ni godu, svatóvšne, semnja,<br>de tje ne bili bi vabíli ga.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Bilo ni godu, svatóvšne, semnja,"
+      },
+      {
+        "kitica": "Bil godec je mehkega srcá,<br>mošnjico polno deklici da.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Bil godec je mehkega srcá,"
+      },
+      {
+        "kitica": "Bilo ni godu, svatóvšne, semnja,<br>de tje ne bili bi vabíli ga.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Bilo ni godu, svatóvšne, semnja,"
+      },
+      {
+        "kitica": "Bila še ni stara dvajset let;<br>al vender je dobro poznala svet.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Bila še ni stara dvajset let;"
+      },
+      {
+        "kitica": "Bile so v gradu velíke gostí,<br>bila omožila je mlajša se hči.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Bile so v gradu velíke gostí,"
+      },
+      {
+        "kitica": "Bil godec zagodel je kotiljón,<br>vsi prašajo, kje je mladi baron?",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Bil godec zagodel je kotiljón,"
+      },
+      {
+        "kitica": "Bridkóst, k od nje srcé več ne počije,<br>odkrivajo njegove skrivne teže<br>mokrócveteče rožce poezije.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Bridkóst, k od nje srcé več ne počije,"
+      },
+      {
+        "kitica": "Bilé so v strahu, da boš ti, da zale<br>Slovenke, nemško govorit umetne,<br>jih boste, ker s Parnása so očetne<br>dežele, morebiti zaničvale.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Bilé so v strahu, da boš ti, da zale"
+      }
+    ],
+    "g": [
+      {
+        "kitica": "Grmado z njih dela<br>prileten samče,<br>ko pride smrt bela,<br>na nji se sežge.",
+        "name": "(V SPOMIN VALENTINA VODNIKA)",
+        "prva": "Grmado z njih dela"
+      },
+      {
+        "kitica": "Ga mati tolaži, tako govori:<br>\"Jaz ímam tri brate, tí ujce tri.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Ga mati tolaži, tako govori:"
+      },
+      {
+        "kitica": "Grob kopljejo, de zadnji mrlič bo vanjga dján;<br>obraz bledga mladenča prikaže se na dan.<br>Kopači ostrmijo, de z ust njih sape ni,<br>manj vstrášeni pogrebci vanj vpirajo oči.",
+        "name": "(NEIZTROHNJENO SRCE)",
+        "prva": "Grob kopljejo, de zadnji mrlič bo vanjga dján;"
+      }
+    ],
+    "č": [
+      {
+        "kitica": "Črne te zemlje pokriva odeja<br>v grobu tihotnem, naš bratec, Andrej!<br>Vince zlató se v kozarcih nam smeja,<br>v tvojo opombo pijemo ga zdéj.",
+        "name": "(V SPOMIN ANDREJA SMOLETA)",
+        "prva": "Črne te zemlje pokriva odeja"
+      },
+      {
+        "kitica": "Čedna postava bila ti je dana,<br>bistri je um ti z bogastvam bil dan;<br>boljga srca ni imela Ljubljana,<br>kak si za srečo človeštva bil vžgan!",
+        "name": "(V SPOMIN ANDREJA SMOLETA)",
+        "prva": "Čedna postava bila ti je dana,"
+      }
+    ],
+    "c": [
+      {
+        "kitica": "\"Ceste tebi ne zapéram,<br>ne na Dunaj, v Gradec, v Trst;<br>ti pa mene pusti zméram,<br>pet mam boljših na vsak prst.\"",
+        "name": "(OD ŽELEZNE CESTE)",
+        "prva": "\"Ceste tebi ne zapéram,"
+      },
+      {
+        "kitica": "Cel čas so blagih sapic pogrešvále,<br>od tebe, drage deklice prevzetne,<br>prinesle niso bóžicam prijetne,<br>ki bi bila jih oživíla, hvale.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Cel čas so blagih sapic pogrešvále,"
+      },
+      {
+        "kitica": "Cvetlice naše poezije stale<br>do zdaj so vrh snežnikov redke rožce,<br>obdájale so utrjene jih skale.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Cvetlice naše poezije stale"
+      }
+    ],
+    "j": [
+      {
+        "kitica": "\"Jaz popeljem se tje v Brno,<br>snubit Judnje kršene;<br>bom priženil z ženo črno<br>penezov na mernike.\"",
+        "name": "(OD ŽELEZNE CESTE)",
+        "prva": "\"Jaz popeljem se tje v Brno,"
+      },
+      {
+        "kitica": "\"Jaz pa iz domačih starcov<br>si moža zvolíla bom;<br>ímel bo ko peska dnarcov,<br>mene várval bo in dom.\"",
+        "name": "(OD ŽELEZNE CESTE)",
+        "prva": "\"Jaz pa iz domačih starcov"
+      },
+      {
+        "kitica": "\"Jaz pa hlače bom nosila,<br>gospodar bom čez mošnjó;<br>bom vabila na kosila,<br>kogar meni bo ljubó.\"",
+        "name": "(OD ŽELEZNE CESTE)",
+        "prva": "\"Jaz pa hlače bom nosila,"
+      },
+      {
+        "kitica": "\"Judnja je ko satan zvita,<br>kadar boš z njo zavozlan,<br>privošíla skoporita<br>komej ti bo sok neslan.\"",
+        "name": "(OD ŽELEZNE CESTE)",
+        "prva": "\"Judnja je ko satan zvita,"
+      },
+      {
+        "kitica": "Je za druzega dekleta<br>zdaj ljubezen tvoja vneta;<br>jezik ji lažniv obeta,<br>jo peljati pred oltar;<br>Bog te obvar!",
+        "name": "(ZAPUŠČENA)",
+        "prva": "Je za druzega dekleta"
+      },
+      {
+        "kitica": "Je ljubemu ljubca, lepote cvet,<br>umrla stara le osemnajst let.",
+        "name": "(ZDRAVILO LJUBEZNI)",
+        "prva": "Je ljubemu ljubca, lepote cvet,"
+      },
+      {
+        "kitica": "Je znala obljúbit, je znalá odreči,<br>in biti priljudna, in biti prevzetna,<br>mladenče unémat, bit staršim prijetna;<br>modrij in zvijač je bila vseh umetna;<br>možake je dolgo vodila za nos,<br>ga stakne nazadnje, ki bil ji je kos.",
+        "name": "(POVODNI MOŽ)",
+        "prva": "Je znala obljúbit, je znalá odreči,"
+      },
+      {
+        "kitica": "Jih dókaj jo prosi, al vsakmu odreče,<br>prešerna se brani in ples odlašuje,<br>si vedno izgovore nove zmišljuje,<br>že sonce zahaja, se mrak približuje;<br>že sedem odbila je ura in čez,<br>ko jela ravnat se je Urška na ples.",
+        "name": "(POVODNI MOŽ)",
+        "prva": "Jih dókaj jo prosi, al vsakmu odreče,"
+      },
+      {
+        "kitica": "Jokále so milo njene oči,<br>ki zdéj ji srcé za godca gori.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "Jokále so milo njene oči,"
+      },
+      {
+        "kitica": "Jim moč so dale rasti neveselo,<br>ko zgodnja roža raste, zapeljána<br>od mladga sonca kopnega svečána,<br>ak nekaj dni se smeja ji veselo;",
+        "name": "(SONETNI VENEC)",
+        "prva": "Jim moč so dale rasti neveselo,"
+      },
+      {
+        "kitica": "Jim iz oči ti pošlji žarke mile,<br>mi gledati daj lic svetlobo zorno!<br>Le nji teme kraljestvo je pokorno,<br>samo njo bógajo viharjev sile.",
+        "name": "(SONETNI VENEC)",
+        "prva": "Jim iz oči ti pošlji žarke mile,"
+      }
+    ],
+    "h": [
+      {
+        "kitica": "Hčerka je odgovorila<br>te besede mu, rekoč:<br>\"Stari oča, oča ljubi,<br>ljubi oča, modri mož!<br>Lojtro bo za zid prinesel,<br>za peséta kruha kos,<br>hišna meni davno nosi<br>pisma s plačano rokó;<br>ako hóčte, de ne pride<br>več pod okno ljubi moj,<br>za ženico dajte dragmu,<br>ljubi oča! me na dom.\"",
+        "name": "(HČERE SVET)",
+        "prva": "Hčerka je odgovorila"
+      },
+      {
+        "kitica": "Hrast stoji v turjaškem dvóri,<br>vrh vzdiguje svoj v oblake,<br>v senci pri kamnitni mizi<br>zbor sedi gospode žlahtne,<br>ker Turjačan spet gostuje<br>Rozamundine snubače.",
+        "name": "(TURJAŠKA ROZAMUNDA)",
+        "prva": "Hrast stoji v turjaškem dvóri,"
+      },
+      {
+        "kitica": "Hladijo naj ga sapce, naj rosa pade nanj,<br>naj sonce, luna, zvezde, kar so mu pevskih sanj<br>préd vdihnile v življenji, prejmejo spet z njega;<br>ak bo ta čas splahnelo, spet zagrebímo ga.\"",
+        "name": "(NEIZTROHNJENO SRCE)",
+        "prva": "Hladijo naj ga sapce, naj rosa pade nanj,"
+      }
+    ],
+    "š": [
+      {
+        "kitica": "šampanjca so pili, veseli bili,<br>odbila je ura polnočí.",
+        "name": "(ŽENSKA ZVESTOBA)",
+        "prva": "šampanjca so pili, veseli bili,"
+      }
+    ]
+  }
