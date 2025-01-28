@@ -92,26 +92,28 @@
   <div class="container">
     <!-- Hero Section -->
     <div class="hero">
-      <h1>Letter Processor</h1>
-      <p>Enter a string and discover its magic interpretation.</p>
+      <h1>Prešernov venec generator</h1>
+      <p style="border-style: dashed; border-width: 5px;">Dobrodošli v Prešernovem venec generatorju. V spodnjo vnosno vrstico prosim vnesite nek niz črk in 
+        generator vam bo podobno kot v pesmi Sonetni venec sestavil pesem, zgrajeno iz kitic zbranih v Prešernovi
+         zbirki poezije. </p>
     </div>
 
     <!-- Main Content -->
     <div class="content">
       <!-- Left Image -->
-      <img src="https://via.placeholder.com/300" alt="Left Image">
+      <img src="slike/20635_Zdravljica.jpg" alt="Left Image">
 
       <!-- Center Section -->
       <div class="center">
-        <p>Enter your text below:</p>
-        <input type="text" id="inputText" placeholder="Enter your string here">
+        <p>Vnesite niz v spodnjo vnosno vrstico:</p>
+        <input type="text" id="inputText" placeholder="Vaš niz">
         <button id="processButton">Process</button>
         <button id="resetButton">Reset</button>
         <div class="result" id="result"></div>
       </div>
 
       <!-- Right Image -->
-      <img src="https://via.placeholder.com/300" alt="Right Image">
+      <img src="slike/260px-Prešern-Goldenstein.jpg" alt="Right Image">
     </div>
   </div>
 
@@ -148,7 +150,7 @@
           if (letterData[char]) {
             // Get a random entry for the current letter
             const randomEntry = letterData[char][Math.floor(Math.random() * letterData[char].length)];
-            output += `<p>${randomEntry.kitica} - <strong>${randomEntry.name}</strong></p>`;
+            output += `<p>${randomEntry.kitica}<br> - <strong>${randomEntry.name}</strong></p>`;
             madrigale += `${randomEntry.prva}\n`; // Add newline for each first line
           }
         }
