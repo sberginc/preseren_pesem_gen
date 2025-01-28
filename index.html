@@ -84,13 +84,12 @@
     }
     .result p {
       margin: 10px 0;
-      line-height: 1.2; /* Reduced line spacing */
+      line-height: 1.2;
     }
   </style>
 </head>
 <body>
   <div class="container">
-    <!-- Hero Section -->
     <div class="hero">
       <h1>Prešernov venec generator</h1>
       <p style="border-style: dashed; border-width: 5px;">Dobrodošli v Prešernovem venec generatorju. V spodnjo vnosno vrstico prosim vnesite nek niz črk in 
@@ -98,12 +97,9 @@
          zbirki poezije. </p>
     </div>
 
-    <!-- Main Content -->
     <div class="content">
-      <!-- Left Image -->
       <img src="slike/20635_Zdravljica.jpg" alt="Left Image">
 
-      <!-- Center Section -->
       <div class="center">
         <p>Vnesite niz v spodnjo vnosno vrstico:</p>
         <input type="text" id="inputText" placeholder="Vaš niz">
@@ -112,13 +108,11 @@
         <div class="result" id="result"></div>
       </div>
 
-      <!-- Right Image -->
       <img src="slike/260px-Prešern-Goldenstein.jpg" alt="Right Image">
     </div>
   </div>
 
   <script>
-    // Fetch JSON data dynamically
     let letterData = {};
     fetch('data.json')
       .then(response => response.json())
@@ -136,29 +130,26 @@
       const resultDiv = document.getElementById('result');
 
       processButton.addEventListener('click', () => {
-        const userInput = inputText.value.trim().toLowerCase(); // Get input, trim spaces, and convert to lowercase
+        const userInput = inputText.value.trim().toLowerCase(); 
         if (!userInput) {
           resultDiv.innerHTML = "<p>Please enter a valid string!</p>";
           return;
         }
 
-        let output = ""; // To store the generated result
-        let madrigale = ""; // To store the concatenated first lines
+        let output = ""; 
+        let madrigale = ""; 
 
-        // Iterate through each character in the input string
         for (const char of userInput) {
           if (letterData[char]) {
-            // Get a random entry for the current letter
             const randomEntry = letterData[char][Math.floor(Math.random() * letterData[char].length)];
             output += `<p>${randomEntry.kitica}<br> - <strong>${randomEntry.name}</strong></p>`;
-            madrigale += `${randomEntry.prva}\n`; // Add newline for each first line
+            madrigale += `${randomEntry.prva}\n`; 
           }
         }
 
         if (!output) {
           resultDiv.innerHTML = "<p>No matching data found for the entered string.</p>";
         } else {
-          // Display the generated text and madrigale
           resultDiv.innerHTML = `
             <div>${output}</div>
             <p><strong>Madrigale:</strong></p>
@@ -167,7 +158,6 @@
         }
       });
 
-      // Reset functionality
       resetButton.addEventListener('click', () => {
         inputText.value = "";
         resultDiv.innerHTML = "";
