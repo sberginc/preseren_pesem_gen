@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Letter Processor</title>
+  <title>Generator vencev</title>
   <style>
     body {
       margin: 0;
@@ -96,8 +96,8 @@
   <div class="container">
     <div class="hero">
       <h1>Prešernov venec generator</h1>
-      <p style="border-style: dashed; border-width: 5px;">Dobrodošli v Prešernovem venec generatorju. V spodnjo vnosno vrstico prosim vnesite nek niz črk in 
-        generator vam bo podobno kot v pesmi Sonetni venec sestavil pesem, zgrajeno iz kitic zbranih v Prešernovi
+      <p style="border-style: dashed; border-width: 5px;">Dobrodošli v Prešernovem venec generatorju. V spodnjo vnosno vrstico vnesite nek niz črk in 
+        generator vam bo podobno kot v pesmi Sonetni venec sestavil pesem, ki je zgrajena iz kitic zbranih v Prešernovi
          zbirki poezije. </p>
     </div>
 
@@ -107,8 +107,8 @@
       <div class="center">
         <p>Vnesite niz v spodnjo vnosno vrstico:</p>
         <input type="text" id="inputText" placeholder="Vaš niz">
-        <button id="processButton">Process</button>
-        <button id="resetButton">Reset</button>
+        <button id="processButton">Potrdi</button>
+        <button id="resetButton">Resetiraj</button>
         <div class="result" id="result"></div>
       </div>
 
@@ -156,7 +156,7 @@
         } else {
           resultDiv.innerHTML = `
             <div>${output}</div>
-            <p><strong>Madrigale:</strong></p>
+            <p><strong>Magistrale:</strong></p>
             <pre style="line-height: 1.0; background: none; border: none;">${madrigale.trim()}</pre>
           `;
         }
